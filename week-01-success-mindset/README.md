@@ -33,7 +33,10 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+Here's a version under **50 words**:
+
+Your family is often your greatest source of genuine care and support. Value their guidance, cherish their trust, and be thoughtful about whom you confide in. Strong family bonds can provide stability, encouragement, and wisdom through life's challenges.
+
 
 ---
 
@@ -55,11 +58,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Consistency produces better results than occasional intense effort.
 
 ### Evidence from my life
 
-Add your answer here...
+two years ago i was trying to learn a particular musical instrument,started on a wrong note by trying to learn so many keys at once.at th eend i got fustrated.i was then adviced to focus on a particular key and stay consistent on it before moving to the other keys .i actually adhered to the advice.after just three months i had perfected the key and discovered a pattern to learn other keys.
 
 ---
 
@@ -67,11 +70,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Hands-on practice builds skills faster than theory alone.
 
 ### Evidence from my life
 
-Add your answer here...
+back in my university days as a computer engineering student ,the focus of learning was most mostly theoretical.the information embeded on the computer components are not completely visible theoretically.
 
 ---
 
@@ -79,11 +82,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Well-documented processes improve productivity and knowledge sharing.
 
 ### Evidence from my life
 
-Add your answer here...
+working as a network security Engineer and device installer,overtime i discovered after a successfully executing a particular system at the first attempt,the second or subsequent similar project are always easy to complete at a lesser time to the first attempt.this were possible due to the well-documented processes of the previous project.
 
 ---
 
@@ -135,11 +138,29 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+Isaiah Emeka: A DevOps Engineer Shaping the Future Through Innovation.
+
+
+
+A few years ago, Isaiah Emeka began his transformation by enrolling in the 15-week DevOps Micro-Internship (DMI) led by Pravin Mishra. What started as a desire to learn DevOps tools soon became a journey of personal and professional growth. The program taught him that success in DevOps is built on mindset, discipline, consistency, and continuous learning—not just technical knowledge.
+
+Today, Isaiah is recognized as a highly skilled DevOps and Cloud Engineer who designs secure, scalable, and automated cloud solutions for modern businesses. His expertise in Linux, Git, Docker, Kubernetes, Terraform, CI/CD, cloud platforms, and Infrastructure as Code has enabled organizations to accelerate software delivery, improve system reliability, and strengthen security.
+
+Colleagues describe Isaiah as a dependable professional who embraces challenges with confidence and a solution-oriented mindset. His commitment to automation, collaboration, and operational excellence has made him a trusted leader on every project he undertakes.
+
+Outside his professional role, Isaiah is passionate about giving back to the technology community. He mentors aspiring DevOps engineers, contributes to open-source projects, shares practical insights through technical articles and LinkedIn posts, and continuously expands his knowledge to stay ahead in the rapidly evolving cloud ecosystem.
+
+Reflecting on his journey, Isaiah credits the DevOps Micro-Internship for laying the foundation of his success. The program instilled values of ownership, accountability, curiosity, and continuous improvement—principles that continue to guide his career.
+
+Today, Isaiah Emeka is more than a DevOps engineer. He is a lifelong learner, a mentor, and a technology professional committed to creating impactful solutions. His journey demonstrates that with the right mindset, consistent effort, and a willingness to learn, it is possible to transform ambition into a meaningful and successful career.
+
+ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by [Pravin Mishra](https://lnkd.in/dQ9G6GcP). You can start your DevOps journey by joining this [Discord community](https://lnkd.in/dzC9gZrq) ( https://lnkd.in/dzC9gZrq ).
+
+Pravin MishraAnjana MuthunayakeNkechi Anna AhanonyeTanisha BoranaFaith SamsonJoy UkpabiRukevwe ubioworoBhupendra Bhati
 
 ### Public Link
 
-Paste your link here:
+Paste your link here:https://www.linkedin.com/posts/isaiah-emeka_isaiah-emeka-a-devops-engineer-shaping-activity-7477680503341510656-yewP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg
 
 `__________________________`
 
@@ -165,7 +186,7 @@ This is about self-awareness, not judgment.
 
 ### Answer Format
 
-**Yes / No**
+**Yes
 
 If Yes:
 
@@ -173,7 +194,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+Regret:Looking back, I felt a deep sense of remorse and disappointment. By cutting corners to save time, I ended up creating more work, losing credibility, and learning that quality should never be sacrificed for convenience.
 
 ---
 
@@ -199,16 +220,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Atomic Habits – James Clear
+2. The Obstacle Is the Way – Ryan Holiday
+3. Never Split the Difference – Chris Voss
+4. Getting Things Done – David Allen
+5. Spark – John J. Ratey
+6. Breath – James Nestor
+7. Rich Dad Poor Dad – Robert T. Kiyosaki
+8. The First 90 Days – Michael D. Watkins
+9. Good to Great – Jim Collins
+10. The 7 Habits of Highly Effective People – Stephen R. Covey
 
 ---
 
@@ -237,16 +258,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* learning Hours spent = 21 hours 
+* deep work sessions per week=14 hours/week
+* projects shipped/documented=20 hours/week
+* Excercise 3 to 5 hours/week
+* water intake =2-3 litres/day
+* sleep hours =5 hours/day
+* spending tracker=work witha scale of preference
+* spend more on book atleast 2 books/day
+
+
 
 ---
 
@@ -291,18 +312,22 @@ Example:
 #### My Weekly Routine
 
 Add your answer here...
-
+mon-Thu:60 min deep work
+Sat:DMI session
+Sun:weekly review=3 hours
 ---
 
 ### Focus Blocks
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Monday to Friday =3hours/day
+Saturday=8hours
+sunday=3hours
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+7 sessions
 
 ---
 
@@ -316,7 +341,9 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+phone have to be on silence or busy mode through out the session
+social media turned off
+create a quiet environmrnt for this sessions
 
 ---
 
@@ -324,19 +351,21 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I realized that mindset is the foundation of success.
+Technical skills are important, but they alone are not enough. My attitude toward learning, challenges, and continuous improvement will determine how far I grow in my career.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+Poor Time Prioritization:
+I occasionally allow distractions or low-value activities to take time away from focused learning and project work.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Complete at least 5 Deep Work sessions each week, totaling 7.5 focused learning hours.
 
 ### LinkedIn Post
 
-Paste your LinkedIn post link here:
+C:\Users\master\documents\devops-micro-internship-pravinmishra\week-01-success-mindset\screenshots\linkedln.png
 
 `__________________________`
 
@@ -344,7 +373,7 @@ Paste your LinkedIn post link here:
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
+- LinkedIn Post URL: https://www.linkedin.com/posts/isaiah-emeka_join-the-dmi-devops-micro-internship-activity-7477344361349812224-3c74?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg
 - Blog / Medium : **ADD LINK HERE**  
 
 ---
