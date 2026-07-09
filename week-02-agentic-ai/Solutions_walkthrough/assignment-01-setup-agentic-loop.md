@@ -80,7 +80,7 @@ Before you begin, ensure you have the following:
 
 20. Open your git bash terminal:
 
-![git bash](./images/ss1.png)
+![git bash](./images/gitbash.png)
 
 21. Run the following command to verify your Node.js installation.
 
@@ -193,6 +193,7 @@ You will see a screen similar to the one below. Press Enter.
 ![claude](./images/ss9.png)
 
 4. If you're prompted to add payment details, complete that step first. Once finished, you'll see the authorization screen below.
+
 
 ![claude](./images/ss10.png)
 

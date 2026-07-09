@@ -46,10 +46,28 @@ Every DevOps engineer working with agentic AI starts the same way — setting up
 ## 6. Prerequisites
 
 - Node.js and npm installed (`node --version` works)
+
+![nodejs](screenshots/nodejswebpage.png)
+![download](screenshots/nodejsdownload.png)
+![download-prebuilt](screenshots\nodejsbuilt.png)
+![download-OS](screenshots/nodejsoperatingsystem.png)
+![download-Architecture](screenshots/nodejsArchitecture.png)
+![download-Installer](screenshots/nodejsinstaller.png)
+![download-installer-location](screenshots/nodejs-installer-Downloadlocation.png)
 - Git installed and configured (Verify using `git --version`)
+
+![git bash](screenshots/gitbash.png)
+![git bash version](screenshots/gitbash_version.png)
+![node version](screenshots/node_version.png)
 - GitHub account
 - VS Code installed (Vrify using `code --version`)
+![vscode version](./screenshots/vscode.png)
+
+![Claude version](screenshots/claude_version.png)
 - Claude subscription (Pro plan minimum)
+
+![claude](./screenshots/claude_login.png)
+
 
 ---
 
