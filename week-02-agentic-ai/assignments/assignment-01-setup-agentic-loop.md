@@ -47,26 +47,26 @@ Every DevOps engineer working with agentic AI starts the same way — setting up
 
 - Node.js and npm installed (`node --version` works)
 
-![nodejs](screenshots/nodejswebpage.png)
-![download](screenshots/nodejsdownload.png)
-![download-prebuilt](screenshots\nodejsbuilt.png)
-![download-OS](screenshots/nodejsoperatingsystem.png)
-![download-Architecture](screenshots/nodejsArchitecture.png)
-![download-Installer](screenshots/nodejsinstaller.png)
-![download-installer-location](screenshots/nodejs-installer-Downloadlocation.png)
+![nodejs](screenshots/nodejswebpage-01-1.png)
+![download](screenshots/nodejsdownload-01-2.png)
+![download-prebuilt](screenshots\nodejsbuilt-01-3.png)
+![download-OS](screenshots/nodejsoperatingsystem-01-4.png)
+![download-Architecture](screenshots/nodejsArchitecture-01-5.png)
+![download-Installer](screenshots/nodejsinstaller-01-6.png)
+![download-installer-location](screenshots/nodejs-installer-Downloadlocation-01-7.png)
 - Git installed and configured (Verify using `git --version`)
 
-![git bash](screenshots/gitbash.png)
-![git bash version](screenshots/gitbash_version.png)
-![node version](screenshots/node_version.png)
+![git bash](screenshots/gitbash-01-8.png)
+![git bash version](screenshots/gitbash_version-01-9.png)
+![node version](screenshots/node_version-01-10.png)
 - GitHub account
 - VS Code installed (Vrify using `code --version`)
-![vscode version](./screenshots/vscode.png)
+![vscode version](screenshots/vscode-01-11.png)
 
-![Claude version](screenshots/claude_version.png)
+![Claude version](screenshots/claude_version-01-12.png)
 - Claude subscription (Pro plan minimum)
 
-![claude](./screenshots/claude_login.png)
+![claude](./screenshots/claude_login-git-01-13.png)
 
 
 ---
@@ -98,7 +98,9 @@ claude
 
 **Screenshots Required:**
 - Screenshot 1 — Terminal showing `claude --version` with the version number visible
+![claude_Version](claude_version.png)
 - Screenshot 2 — Claude Code authenticated and showing the terminal prompt 
+![claude_Authentication](claude_running.png)
 
 ---
 
@@ -108,6 +110,7 @@ claude
 
 **Steps:**
 1. Open the [repository link](https://github.com/pravinmishraaws/Ultimate-Agentic-DevOps-with-Claude-Code) in your browser.
+![Agentic-ai repository](Agentic-ai-repo)
 2. Click **Fork → Create Fork**
 3. Clone your fork to your local machine
 4. Open the project in VS Code
@@ -115,6 +118,8 @@ claude
 **Commands:**
 ```bash
 git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
+![Github Forked Repo](https://github.com/Emesiah/Ultimate-Agentic-DevOps-with-Claude-Code)
+![Forked Repo](forked-repo)
 cd REPO_NAME
 code .
 ```
@@ -123,6 +128,7 @@ code .
 
 **Screenshots Required:**
 - Screenshot 3 — VS Code with the project open, file tree visible showing `index.html`, `style.css`, `images/`
+![file Tree](project-file-tree.png)
 
 ---
 
@@ -145,11 +151,14 @@ How many lines of CSS does this project have?
 
 **Expected Output:**
 - Question 1: Claude lists the files and describes each one, showing it read them first
+
 - Question 2: Claude runs a command like `wc -l style.css` and reports the exact number
 
 **Screenshots Required:**
 - Screenshot 4 — Claude's response to the first question, showing it read the files (tool calls visible)
+![claude-listed-files.png]
 - Screenshot 5 — Claude's response to the second question, showing it ran a command and reported the line count
+![css-line-number.png]
 
 ---
 
