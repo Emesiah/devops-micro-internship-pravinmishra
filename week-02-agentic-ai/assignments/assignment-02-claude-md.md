@@ -76,7 +76,8 @@ What is this project and how should I deploy it?
 
 **Screenshots Required:**
 - Screenshot 1 — Claude’s generic response before CLAUDE.md exists (project contains only `index.html`, `style.css`, `images/`, `README.MD`, `privacy.html`, `terms.html`)
-
+![response](week-02-Assign2-screenshot15.png)
+![response](week-02-Assign2-screenshot16.png)
 ---
 
 ### Task 2 — Generate an initial CLAUDE.md using /init and review the auto-generated content in VS Code.
@@ -99,7 +100,8 @@ What is this project and how should I deploy it?
 - Screenshot 2 — The auto-generated CLAUDE.md open in VS Code showing its content
 
 ---
-
+![claude.md content](week-02-Assign2-screenshot17.png)
+![claude.md content](week-02-Assign2-screenshot18.png)
 ### Task 3 — Customize the CLAUDE.md
 
 **Goal:** Replace the generic content with specific, actionable instructions across all 5 sections.
@@ -123,7 +125,8 @@ What is this project and how should I deploy it?
 
 **Screenshots Required:**
 - Screenshot 3 — Your customized CLAUDE.md in VS Code showing all 5 sections (scroll to show the full file)
-
+![modified claude.md](week-02-Assign2-screenshot19.png)
+![modified claude.md](week-02-Assign2-screenshot20.png)
 ---
 
 ### Task 4 — Test the After State
@@ -139,8 +142,12 @@ What is this project and how should I deploy it?
 **Commands (in Claude Code, new session):**
 ```
 What is this project and how should I deploy it?
+week-02-agentic-ai/screenshots/week-02-Assign2-screenshot21.png
+week-02-agentic-ai/screenshots/week-02-Assign2-screenshot22.png
 Add a React component to the homepage.
 ```
+![response](week-02-Assign2-screenshot23.png)
+![response](week-02-Assign2-screenshot24.png)
 
 **Expected Output:**
 - Test 1: Claude gives a specific, detailed answer mentioning S3, CloudFront, and Terraform

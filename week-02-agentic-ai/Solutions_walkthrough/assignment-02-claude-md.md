@@ -29,21 +29,22 @@ If a `CLAUDE.md` file already exists, delete it before starting this assignment.
 ## 2. Step-by-Step Solution
 
 ---
-### Step 0 - Commit the deleted files in first assignment.
-
+### Step 0 - Commit the deleted files in first assignment
+![commit files in the first Assignment ](commiting-deleted-file-Assignment.png)
 1. Open your portfolio project in VS Code.
 
 ![project](./images/ss46.png)
+![opening project in vscode](portfolio_project.png)
 
 2. Verify that there is **no `CLAUDE.md`** file.
 
 ![project](./images/ss67.png)
-
+![missing CLAUDE.md file](week-02-Assign2-screenshot2.png)
 3. Open the git bash terminal.
-
 ![terminal](./images/ss68.png)
-
+![project Terminal](week-02-Assign2-screenshot3.png)
 ![terminal](./images/ss69.png)
+![Select Gitbash from Terminal](week-02-Assign2-screenshot4.png)
 
 4. Check the status
 
@@ -51,6 +52,7 @@ If a `CLAUDE.md` file already exists, delete it before starting this assignment.
 git status
 ```
 ![project folder](./images/ss73.png)
+![project status](week-02-Assign2-screenshot5.png)
 
 5. Confirm the directory, Stage the changes and commit them
 
@@ -58,7 +60,9 @@ git status
 pwd
 git add .
 git commit -m "Deleted claude related files"
-```
+devops-micro-internship-pravinmishra\week-02-agentic-ai\screenshots\week-02-Assign2-screenshot6.png
+
+
 
 ![project folder](./images/ss74.png)
 
@@ -71,10 +75,12 @@ claude
 ```
 
 ![claude](./images/ss70.png)
+![claude](week-02-Assign2-screenshot7.png)
 
 Output:
 
 ![claude](./images/ss71.png)
+![claude](week-02-Assign2-screenshot8.png)
 
 2. Ask Claude the following question:
 
@@ -85,15 +91,18 @@ What is this project and how should I deploy it?
 ```
 
 ![prompt](./images/ss72.png)
+![prompt](week-02-Assign2-screenshot9.png)
 
 3. Claude gives a generic response because it only sees the HTML and CSS files. 
 
 ![response](./images/ss75.png)
+![response](week-02-Assign2-screenshot10.png)
 
 ![response](./images/ss76.png)
+![response](week-02-Assign2-screenshot11.png)
 
 ![response](./images/ss77.png)
-
+![response](week-02-Assign2-screenshot12.png)
 ---
 
 ### Step 2 — Generate the Initial CLAUDE.md
@@ -105,6 +114,7 @@ What is this project and how should I deploy it?
 ```
 
 ![init](./images/ss78.png)
+![init](week-02-Assign2-screenshot13.png)
 
 2. Select `Project CLAUDE.md` and press `Enter` (It may display another sugession for you to confirm)
 
