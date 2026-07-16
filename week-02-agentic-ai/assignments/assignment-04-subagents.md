@@ -76,6 +76,7 @@ mkdir -p .claude/agents
 
 **Screenshots Required:**
 - Screenshot 1 — VS Code sidebar showing `.claude/agents/` with all 3 files
+![.claude/agents/](week-02-Assignment4-screenshot1.png)
 
 ---
 
@@ -88,9 +89,9 @@ mkdir -p .claude/agents
 2. Open `cost-optimizer.md` — note the `tools` and `model` fields
 3. Open `tf-writer.md` — note the `tools` and `model` fields
 4. Write a short answer (2–3 sentences each) to these 3 questions:
-   - Why does the cost optimizer use Haiku instead of Sonnet?
-   - Why does the security auditor NOT have Write in its tools list?
-   - Why does the tf-writer use `inherit` instead of a specific model?
+   - Why does the cost optimizer use Haiku instead of Sonnet?the cost optimizer does not need deep reasoning,it only scans resources,check price classes and compare storage tier.this few task.
+   - Why does the security auditor NOT have Write in its tools list?this is because it's an Auditor ,it does not need to write or modify any file. 
+   - Why does the tf-writer use `inherit` instead of a specific model?because code generation quality depend on the model.so if am using opus for the big changes ,i want my writer on the changes too.so inherit gives that flexibility.
 
 **Expected Output:** 3 written answers in your GitHub Repository folder showing you understand the design decisions behind each agent.
 
@@ -119,7 +120,10 @@ Audit my Terraform files for security issues.
 
 **Screenshots Required:**
 - Screenshot 4 — The delegation message showing Claude launched the security-auditor
+![the delegation message](week-02-Assignment4-screenshot4.png)
 - Screenshot 5 — Security audit report output
+![security audit report](week-02-Assignment4-screenshot5.png)
+![security audit report](week-02-Assignment4-screenshot5-2.png)
 
 ---
 
@@ -141,7 +145,9 @@ Review my Terraform infrastructure for cost optimization.
 
 **Screenshots Required:**
 - Screenshot 6 — The full cost optimization report
-
+![cost optimization report](week-02-Assignment4-screenshot6.png)
+![the cost optimization report](week-02-Assignment4-screenshot6-2.png)
+Note=the cost optimization report generation was faster about 1m:54seconds
 ---
 
 ## 8. Industry Insight
@@ -158,10 +164,11 @@ Your submission must include:
 - All 6 required screenshots
 - 3 written answers in the Google Doc (from Task 2)
 - Your GitHub repo URL (agents committed and visible)
+GitHub repo URL=https://github.com/Emesiah/Ultimate-Agentic-DevOps-with-Claude-Code/tree/main/.claude/agents
 
 Submit only a Google Doc link.
 Follow the Assignment Submission Guidelines — (LINK)
-
+https://docs.google.com/document/d/1rT49eK5CMIanFOFToHcKgvI9tm2awuYVjjt2638_U84/edit?usp=sharing
 ---
 
 ## 10. Solution Walkthrough

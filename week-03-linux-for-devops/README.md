@@ -14,14 +14,15 @@ production-style operational checks — the way an on-call DevOps engineer would
 **Task:** Set up basic cloud access for future labs.
 
 **What I did:**
-
+1.Update system packages
+2.Install Node.js and npm
+3.Verify installation
 <!-- Describe the steps you took -->
-
+sudo apt update && sudo apt upgrade -y
+sudo apt install -y nodejs npm
+node -v && npm -v
 **Screenshot:**
-
 ![Cloud Access](./screenshots/task1-cloud-access.png)
-
----
 
 ## Task 2: Deploy React App with Nginx on Linux
 
@@ -74,11 +75,5 @@ production-style operational checks — the way an on-call DevOps engineer would
 ## Key Learnings
 
 <!-- 3-5 bullet points on what you learned this week -->
-
--
--
--
-
----
 
 *Part of the [DevOps Micro Internship with Agentic AI](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) by Pravin Mishra — Join: https://discord.pravinmishra.com/*

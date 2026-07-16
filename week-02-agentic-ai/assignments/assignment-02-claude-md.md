@@ -193,7 +193,9 @@ git push origin main
 **Screenshots Required:**
 
 - Screenshot 6 — `CLAUDE.md` visible in your GitHub repository after pushing the commit
+![CLAUDE.md visible in github repo](week-02-Assign2-screenshot25.png)
 
+Github Repo Url=https://github.com/Emesiah/Ultimate-Agentic-DevOps-with-Claude-Code
 ---
 
 ## 8. Industry Insight

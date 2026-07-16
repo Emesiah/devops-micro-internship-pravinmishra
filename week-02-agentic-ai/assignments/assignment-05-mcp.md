@@ -78,7 +78,8 @@ Each task must be completed sequentially.
 
 **Screenshots Required:**
 - Screenshot 1 — GitHub token creation page showing the selected scopes (`repo`, `read:user`) — token value must NOT be visible
-
+![GitHub Token creation page](week-02-Assignment5-screenshot1.png)
+![GitHub Token creation page](week-02-Assignment5-screenshot1-2.png)
 ---
 
 ### Task 2 — Create .mcp.json at the Project Root

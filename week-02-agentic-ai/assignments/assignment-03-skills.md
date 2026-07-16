@@ -79,7 +79,7 @@ mkdir -p .claude/skills/deploy
 
 **Screenshots Required:**
 - Screenshot 1 — VS Code sidebar showing `.claude/skills/` folder with all 4 subfolders visible
-
+![.claude/skills/](week-02-Assignment3-screenshot1.png)
 ---
 
 ### Task 2 — Add the Skill Files
@@ -100,9 +100,10 @@ mkdir -p .claude/skills/deploy
 
 **Screenshots Required:**
 - Screenshot 2 — `.claude/skills/scaffold-terraform/` open in VS Code showing both `SKILL.md` and `template-spec.md`
+![skill.md & template-spec.md](week-02-Assign3-screenshot2.png)
 - Screenshot 3 — `tf-plan/SKILL.md` frontmatter showing `allowed-tools: Bash, Read, Grep` (no Write) and `disable-model-invocation: true`
 ---
-
+![screenshot](week-02-Assign3-screenshot3.png)
 ### Task 3 — Run /scaffold-terraform
 
 **Goal:** Trigger the scaffold skill and watch Claude generate the full Terraform infrastructure files.
@@ -122,8 +123,10 @@ mkdir -p .claude/skills/deploy
 
 **Screenshots Required:**
 - Screenshot 4 — Claude's response showing the scaffold complete with the file list
+![scaffold](week-02-Assign2-screenshot4.png)
+![scaffold](week-02-Assign2-screenshot4-2.png)
 - Screenshot 5 — VS Code sidebar showing the `terraform/` folder with all generated files inside
-
+![terraform folder](week-02-Assign2-screenshot5.png)
 ---
 
 ### Task 4 — Run terraform init then /tf-plan
@@ -152,7 +155,10 @@ Then in Claude Code:
 
 **Screenshots Required:**
 - Screenshot 6 — Claude's `/tf-plan` response showing it ran the command and analyzed the result (pass or auth error both count)
-
+![run /tf-plan](week-02-Assign2-screenshot6.png)
+![run /tf-plan](week-02-Assign2-screenshot6-2.png)
+![run /tf-plan](week-02-Assign2-screenshot6-3.png)
+Github URL Repo=git@github.com:Emesiah/Ultimate-Agentic-DevOps-with-Claude-Code.git
 ---
 
 ## 8. Industry Insight
@@ -188,8 +194,9 @@ Create a LinkedIn post including:
 **Submit:**
 - LinkedIn post URL
 - Screenshot of the post
-
+LInkedIn Post=https://www.linkedin.com/posts/isaiah-emeka_dmibypravinmishra-agenticai-claudecode-ugcPost-7482413438200168449-K_8z/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg
 ---
+![LinkedIn post](<week 2-Assignment3-linkedIn-post.png>)
 
 ## 12. Completion Checklist
 
