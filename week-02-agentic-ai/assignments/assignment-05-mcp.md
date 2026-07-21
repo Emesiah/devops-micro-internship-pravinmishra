@@ -109,7 +109,7 @@ Each task must be completed sequentially.
 **Screenshots Required:**
 - Screenshot 2 — `.mcp.json` open in VS Code showing the full configuration
 
----
+![.mcp.json` open in VS Code showing the full configuration](week-02-Assignment5-screenshot2.png)
 
 ### Task 3 — Add Your Token to settings.local.json
 
@@ -136,7 +136,7 @@ Each task must be completed sequentially.
 **Screenshots Required:**
 - Screenshot 3 — `settings.local.json` open in VS Code showing the `env` section — **blur or cover the actual GitHub token value**
 
----
+![settings.local.json` open in VS Code showing the `env` section — **blur or cover the actual GitHub token value](week-02-Assignment5-screenshot3.png)
 
 ### Task 4 — Verify the Connection with /mcp
 
@@ -157,7 +157,8 @@ Each task must be completed sequentially.
 **Screenshots Required:**
 - Screenshot 4 — `/mcp` output showing `github: connected`
 
----
+![`/mcp` output showing `github: connected`
+](week-02-Assignment5-screenshot4.png)
 
 ## Task 5 — Run a Live GitHub Query
 

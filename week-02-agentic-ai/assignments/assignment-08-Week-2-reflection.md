@@ -198,7 +198,7 @@ Your reflection blog must include:
 * One clear habit/system you will implement next week
 * Blog/document link must be publicly viewable or accessible to reviewers
 
----
+https://medium.com/@emesiah/why-learning-linux-bash-is-a-game-changer-for-every-devops-and-cloud-engineer-82dcbd122e22
 
 ## 10. LinkedIn Post Requirement
 
@@ -218,7 +218,7 @@ Hashtags:
 
 #DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps #LearningInPublic
 
----
+https://www.linkedin.com/posts/isaiah-emeka_devops-linux-bashscripting-ugcPost-7484956709355065344-gwq2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg
 
 ## 11. Submission Instructions
 

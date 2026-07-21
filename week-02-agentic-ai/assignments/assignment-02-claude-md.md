@@ -125,8 +125,8 @@ What is this project and how should I deploy it?
 
 **Screenshots Required:**
 - Screenshot 3 — Your customized CLAUDE.md in VS Code showing all 5 sections (scroll to show the full file)
-![modified claude.md](week-02-Assign2-screenshot19.png)
-![modified claude.md](week-02-Assign2-screenshot20.png)
+![modified claude.md](week-02-Assign2-screenshot19.png)![modified claude.md](week-02-Assign2-screenshot20.png)
+
 ---
 
 ### Task 4 — Test the After State
@@ -146,8 +146,8 @@ week-02-agentic-ai/screenshots/week-02-Assign2-screenshot21.png
 week-02-agentic-ai/screenshots/week-02-Assign2-screenshot22.png
 Add a React component to the homepage.
 ```
-![response](week-02-Assign2-screenshot23.png)
-![response](week-02-Assign2-screenshot24.png)
+![response](week-02-Assign2-screenshot23.png)![response](week-02-Assign2-screenshot24.png)
+
 
 **Expected Output:**
 - Test 1: Claude gives a specific, detailed answer mentioning S3, CloudFront, and Terraform

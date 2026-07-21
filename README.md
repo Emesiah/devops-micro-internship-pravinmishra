@@ -65,19 +65,19 @@ This is not a course. It is an internship-style program — real deployments, re
 
 ---
 
-**Your stack **
+Your stack 
 
  Week 00 → Internet & Networking Basics 
  [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) 
 
-<!-- Week 01 → Success Mindset -->
+Week 01 → Success Mindset 
 [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/)
 
-<!-- Week 02 → Agentic AI with Claude Code -->
-<!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
+Week 02 → Agentic AI with Claude Code 
+[![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) 
 
-<!-- Week 03 → Linux & Bash for DevOps -->
-<!-- [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) -->
+Week 03 → Linux & Bash for DevOps
+[![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/)
 
 <!-- Week 04 → Git & GitHub -->
 <!-- [![Week 04 – Git](./badges/week-04.svg)](./week-04-github/) -->
@@ -126,10 +126,10 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ✅ Completed | ✅ Completed | —https://www.linkedin.com/posts/isaiah-emeka_excited-to-continue-my-devops-learning-journey-activity-7441918697587240960-W9tw?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg | — |
-| 01 | Success Mindset | ⬜ ✅ Completed | ✅ Completed| https://www.linkedin.com/posts/isaiah-emeka_isaiah-emeka-a-devops-engineer-shaping-activity-7477680503341510656-yewP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg— | https://medium.com/@emesiah/mindset-vs-tools-of-a-devops-engineer-336ae37f79b0— |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
-| 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Completed | —https://www.linkedin.com/posts/isaiah-emeka_excited-to-continue-my-devops-learning-journey-activity-7441918697587240960-W9tw?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg | — https://medium.com/@emesiah/my-journey-learning-internet-and-networking-as-a-devops-learner-36027a547ef9|
+| 01 | Success Mindset |  ✅ Completed | ✅ Completed| https://www.linkedin.com/posts/isaiah-emeka_isaiah-emeka-a-devops-engineer-shaping-activity-7477680503341510656-yewP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg— | https://medium.com/@emesiah/success-mindset-of-a-devops-engineer-08a6bf635b07
+| 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Completed | https://www.linkedin.com/posts/isaiah-emeka_dmibypravinmishra-ultimateagenticaidevops-ugcPost-7485142160066093056-vAjd/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg— | https://medium.com/@emesiah/the-future-of-devops-is-here-why-every-beginner-should-learn-ultimate-agentic-ai-devops-with-85d8dd7c6b01— |
+| 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Completed| https://www.linkedin.com/posts/isaiah-emeka_devops-linux-bashscripting-ugcPost-7484956709355065344-gwq2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg— |https://medium.com/@emesiah/why-learning-linux-bash-is-a-game-changer-for-every-devops-and-cloud-engineer-82dcbd122e22 — |
 | 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |

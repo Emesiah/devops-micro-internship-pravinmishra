@@ -47,26 +47,26 @@ Every DevOps engineer working with agentic AI starts the same way — setting up
 
 - Node.js and npm installed (`node --version` works)
 
-![nodejs](screenshots/nodejswebpage-01-1.png)
-![download](screenshots/nodejsdownload-01-2.png)
-![download-prebuilt](screenshots\nodejsbuilt-01-3.png)
-![download-OS](screenshots/nodejsoperatingsystem-01-4.png)
-![download-Architecture](screenshots/nodejsArchitecture-01-5.png)
-![download-Installer](screenshots/nodejsinstaller-01-6.png)
-![download-installer-location](screenshots/nodejs-installer-Downloadlocation-01-7.png)
+![nodejs webpage](nodejswebpage1.png)
+![nodejs download page](nodejsdownload.png)
+![nodejs built](nodejsbuilt.png)
+![nodejs operationg system selection](nodejsoperatingsystem.png)
+![nodejs download Architecture](nodejsArchitecture.png)
+![nodejs installer](nodejsinstaller.png)
+![nodejs installer download location folder](nodejs-installer-Downloadlocation.png)
 - Git installed and configured (Verify using `git --version`)
 
-![git bash](screenshots/gitbash-01-8.png)
-![git bash version](screenshots/gitbash_version-01-9.png)
-![node version](screenshots/node_version-01-10.png)
+![gitbash ](gitbash.png)
+![Git version](git_version.png)
+![node version](node_version.png)
 - GitHub account
 - VS Code installed (Vrify using `code --version`)
-![vscode version](screenshots/vscode-01-11.png)
+![Vscode version](vscode_version.png)
 
-![Claude version](screenshots/claude_version-01-12.png)
+![Claude version](claude_version.png)
 - Claude subscription (Pro plan minimum)
 
-![claude](./screenshots/claude_login-git-01-13.png)
+![Claude login git](claude_login-git.png)
 
 
 ---
@@ -128,7 +128,7 @@ code .
 
 **Screenshots Required:**
 - Screenshot 3 — VS Code with the project open, file tree visible showing `index.html`, `style.css`, `images/`
-![file Tree](project-file-tree.png)
+![project file tree](project-file-tree.png)
 
 ---
 
@@ -156,9 +156,9 @@ How many lines of CSS does this project have?
 
 **Screenshots Required:**
 - Screenshot 4 — Claude's response to the first question, showing it read the files (tool calls visible)
-![claude-listed-files.png]
+![claude listed files](claude-listed-files.png)
 - Screenshot 5 — Claude's response to the second question, showing it ran a command and reported the line count
-![css-line-number.png]
+![css line numbers](Css-line-numbers.png)
 
 ---
 
