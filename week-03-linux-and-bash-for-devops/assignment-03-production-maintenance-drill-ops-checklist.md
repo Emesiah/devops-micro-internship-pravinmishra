@@ -407,7 +407,7 @@ Cloud resources should be stopped or deleted when you no longer need them so you
 
 Paste your LinkedIn post URL here:https://www.linkedin.com/posts/isaiah-emeka_deployment-is-only-the-beginning-my-journey-ugcPost-7484383948140371968-qIBn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg
 
-`__________________________`
+`Add your URL here`
 
 ---
 

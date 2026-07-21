@@ -420,7 +420,9 @@ Paste your LinkedIn post URL here:
 https://www.linkedin.com/posts/isaiah-emeka_devops-linux-bashscripting-ugcPost-7484956709355065344-gwq2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg
 `__________________________`
 
----
+`Add your URL here`
+
+https://medium.com/@emesiah/why-learning-linux-bash-is-a-game-changer-for-every-devops-and-cloud-engineer-82dcbd122e22
 
 #### Screenshot — Published LinkedIn post
 
