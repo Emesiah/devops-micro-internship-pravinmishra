@@ -20,50 +20,50 @@ Verify that the deployed React application is reachable from the browser and con
 
 #### Screenshot 1 — Browser showing the React app with your Full Name visible on the UI
 
-Add your screenshot here.
 ![ Browser showing the React app with your Full Name visible on the UI
 ](week-03-Assignment-01-screenshot11-2.png)
+
 ---
 
 #### Screenshot 2 — Output of `ip a`
 
-Add your screenshot here.
 ![output of ip a](week-03-Assignment-03-screenshot3.png)
+
 ---
 
 #### Screenshot 3 — Output of `sudo ss -tulpen`
 
-Add your screenshot here.
 ![alt text](week-03-Assignment-01-screenshot3-1.png)
+
 ---
 
 #### Screenshot 4 — Output of `sudo ufw status`
 
-Add your screenshot here.
+![output of sudo ufw status](week-03-Assignment-03-screenshot4.png)
 
 ---
-![output of sudo ufw status](week-03-Assignment-03-screenshot4.png)
+
 ### Notes
 
 Answer the following in your own words:
 
 **1. What proves Nginx is listening on 0.0.0.0:80?**
 
-Write your answer here.
 ![Nginx is listening on 0.0.0.0:80](week-03-Assignment-03-screenshot5.png)
+
 ---
 
 **2. What proves SSH is active on port 22?**
 
-Write your answer here.
 ![ssh is active on port 22](week-03-Assignment-03-screenshot6.png)
+
 ---
 
 **3. Did you find any unexpected open ports? Explain briefly.**
 
-Write your answer here.
 ![the output showing there is no open unexpected listening port ](week-03-Assignment-03-screenshot7.png)
 there are no unexpected open ports. Everything shown is normal for a basic Ubuntu web server running Nginx.
+
 ---
 
 # Task 2 — Service Health & Systemd Validation (Nginx)
@@ -76,21 +76,21 @@ Verify that Nginx is properly installed, running, enabled at boot, and safely co
 
 #### Screenshot 1 — Output of `systemctl status nginx --no-pager`
 
-Add your screenshot here.
 ![output systemctl status nginx --no-page](week-03-Assignment-03-screenshot9.png)
+
 ---
 
 #### Screenshot 2 — Output of `sudo nginx -t`
 
-Add your screenshot here.
 ![output of sudo nginx -t](week-03-Assignment-03-screenshot10.png)
+
 ---
 
 #### Screenshot 3 — Output of `sudo ss -lptn '( sport = :80 )'`
 
-Add your screenshot here.
 ![Output of `sudo ss -lptn '( sport = :80 )'](week-03-Assignment-03-screenshot11.png)
 ---
+
 
 ### Notes
 

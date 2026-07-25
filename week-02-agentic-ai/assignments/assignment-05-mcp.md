@@ -155,10 +155,10 @@ Each task must be completed sequentially.
 **Expected Output:** `/mcp` output shows `github` server with status `connected`.
 
 **Screenshots Required:**
-- Screenshot 4 — `/mcp` output showing `github: connected`
-
-![`/mcp` output showing `github: connected`
+- Screenshot 4 — ![`/mcp` output showing `github: connected`
 ](week-02-Assignment5-screenshot4.png)
+
+
 
 ## Task 5 — Run a Live GitHub Query
 

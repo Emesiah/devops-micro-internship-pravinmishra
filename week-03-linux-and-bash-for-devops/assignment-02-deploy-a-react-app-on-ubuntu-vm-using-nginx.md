@@ -140,17 +140,17 @@ Add your screenshot here.
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
+https://www.linkedin.com/posts/isaiah-emeka_deployment-of-a-react-app-to-amazon-ec2-activity-7420426645490270208-QaA8?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg
 
-`Add your URL here`
+www.linkedin.com/in/isaiah-emeka
 
 ---
 
 #### Screenshot — LinkedIn post showing the deployed application
 
-Add your screenshot here.
 ![ LinkedIn post showing the deployed ](week-03-Assignment-01-screenshot11.png)
 ---
+
 
 # Submission Instructions
 

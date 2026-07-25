@@ -160,9 +160,9 @@ Pravin MishraAnjana MuthunayakeNkechi Anna AhanonyeTanisha BoranaFaith SamsonJoy
 
 ### Public Link
 
-Paste your link here:https://www.linkedin.com/posts/isaiah-emeka_isaiah-emeka-a-devops-engineer-shaping-activity-7477680503341510656-yewP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg
+https://www.linkedin.com/posts/isaiah-emeka_isaiah-emeka-a-devops-engineer-shaping-activity-7477680503341510656-yewP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg
 
-`Add your URL here`
+www.linkedin.com/in/isaiah-emeka
 
 ---
 
@@ -293,7 +293,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+yes
 
 ---
 
@@ -311,11 +311,11 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
 mon-Thu:60 min deep work
 Sat:DMI session
 Sun:weekly review=3 hours
 ---
+
 
 ### Focus Blocks
 
@@ -367,7 +367,7 @@ Complete at least 5 Deep Work sessions each week, totaling 7.5 focused learning 
 
 C:\Users\master\documents\devops-micro-internship-pravinmishra\week-01-success-mindset\screenshots\linkedln.png
 
-`Add your URL here`
+www.linkedin.com/in/isaiah-emeka
 
 ---
 

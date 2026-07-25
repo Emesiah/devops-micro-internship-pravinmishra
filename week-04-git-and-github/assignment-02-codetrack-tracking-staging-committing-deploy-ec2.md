@@ -20,13 +20,14 @@ Confirm that Git works and that you are inside the correct `CodeTrack` repositor
 
 #### Screenshot 1 — Output of `pwd` showing you're inside `CodeTrack`
 
-Add your screenshot here.
+![Output of `pwd` showing you're inside `CodeTrack`
+](week-04-Assignmen-02-screenshot1.png)
 
 ---
 
 #### Screenshot 2 — Output of `git status` showing no "not a git repository" error
 
-Add your screenshot here.
+![Output of `git status` showing no "not a git repository" error](week-04-Assignmen-02-screenshot2.png)
 
 ---
 
@@ -40,7 +41,7 @@ Create the two starter UI files inside `CodeTrack`.
 
 #### Screenshot 3 — Output of `ls` showing `index.html` and `style.css`
 
-Add your screenshot here.
+![Output of `ls` showing `index.html` and `style.css`](week-04-Assignmen-02-screenshot3.png)
 
 ---
 
@@ -54,7 +55,8 @@ Copy the provided starter HTML and CSS content into your local `index.html` and 
 
 #### Screenshot 4 — Your editor showing the contents of `index.html` and `style.css`
 
-Add your screenshot here.
+![Your editor showing the contents of `index.html` and `style.css`
+](week-04-Assignmen-02-screenshot4.png)![Your editor showing the contents of `index.html` and `style.css`](week-04-Assignmen-02-screenshot4-2.png)
 
 ---
 
@@ -68,13 +70,15 @@ Confirm both files show as untracked, then stage them individually with `git add
 
 #### Screenshot 5 — Output of `git status` showing both files as untracked
 
-Add your screenshot here.
+![Output of `git status` showing both files as untracked
+](<week-04-Assignment 02-screenshot5-1.png>)
 
 ---
 
 #### Screenshot 6 — Output of `git status` showing both files staged under "Changes to be committed"
 
-Add your screenshot here.
+![Output of `git status` showing both files staged under "Changes to be committed"
+](week-04-Assignmen-02-screenshot6.png)
 
 ---
 
@@ -88,13 +92,13 @@ Commit the staged starter files using the message `Initial UI scaffold: add inde
 
 #### Screenshot 7 — Output of `git commit`
 
-Add your screenshot here.
+![Output of `git commit`](week-04-Assignmen-02-screenshot7.png)
 
 ---
 
 #### Screenshot 8 — Output of `git log --oneline` showing the first commit
 
-Add your screenshot here.
+![ Output of `git log --oneline` showing the first commit](week-04-Assignmen-02-screenshot8.png)
 
 ---
 
@@ -108,25 +112,26 @@ Follow the instruction comment inside `index.html` to update the Student Name an
 
 #### Screenshot 9 — Browser showing the updated page with your Student Name and Group Name visible
 
-Add your screenshot here.
+![Browser showing the updated page with your Student Name and Group Name visible
+](week-04-Assignmen-02-screenshot9.png)
 
 ---
 
 #### Screenshot 10 — Output of `git status` showing `index.html` as modified
 
-Add your screenshot here.
+![Output of `git status` showing `index.html` as modified](week-04-Assignmen-02-screenshot10.png)
 
 ---
 
 #### Screenshot 11 — Output of `git commit`
 
-Add your screenshot here.
+![Output of `git commit`](week-04-Assignmen-02-screenshot11.png)
 
 ---
 
 #### Screenshot 12 — Output of `git log --oneline` showing two commits
 
-Add your screenshot here.
+![Output of `git log --oneline` showing two commits](week-04-Assignmen-02-screenshot12.png)
 
 ---
 
