@@ -374,7 +374,7 @@ www.linkedin.com/in/isaiah-emeka
 ## 10. Proof of Work
 
 - LinkedIn Post URL: https://www.linkedin.com/posts/isaiah-emeka_join-the-dmi-devops-micro-internship-activity-7477344361349812224-3c74?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg
-- Blog / Medium : **ADD LINK HERE**  
+- Blog / Medium : https://medium.com/@emesiah/heres-a-blog-you-can-publish-869576de2c94 
 
 ---
 
