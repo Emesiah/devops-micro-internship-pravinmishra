@@ -112,15 +112,16 @@ Open a Pull Request from `feature-readme-update` on your fork to `main` on the u
 
 #### Screenshot 9 — Successfully created Pull Request page with the PR number visible
 
-![Successfully created Pull Request page with the PR number visible](week-04-Assignmen-05-screenshot9.png)
+![Successfully created Pull Request page with the PR number visible
+](week-04-Assignmen-05-screenshot9.png)
 
 ---
 
 #### Pull Request URL
 
-https://github.com/pravinmishraaws/devops-micro-internship-interviews/pulls
+https://github.com/pravinmishraaws/devops-micro-internship-interviews/pull/419
 
-`Add your URL here`
+(https://github.com/pravinmishraaws/devops-micro-internship-interviews/)
 
 ---
 
@@ -130,15 +131,15 @@ https://github.com/pravinmishraaws/devops-micro-internship-interviews/pulls
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
+https://www.linkedin.com/posts/isaiah-emeka_dmibypravinmishra-agenticai-git-ugcPost-7487281820678524928-O72i/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg
 
-`Add your URL here`
+www.linkedin.com/in/isaiah-emeka
 
 ---
 
 #### Screenshot — LinkedIn post showing your successfully created Pull Request
 
-Add your screenshot here.
+![ LinkedIn post showing your successfully created Pull Request](<week4_Assignment5-Linkedin post.png>)
 
 ---
 
@@ -153,9 +154,9 @@ Add your screenshot here.
 
 ## Fork URL
 
-Paste your fork URL here:
+https://github.com/Emesiah/devops-micro-internship-interviews
 
-`Add your URL here`
+https://github.com/Emesiah/
 
 ---
 
