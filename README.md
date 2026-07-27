@@ -79,8 +79,8 @@ Week 02 → Agentic AI with Claude Code
 Week 03 → Linux & Bash for DevOps
 [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/)
 
-<!-- Week 04 → Git & GitHub -->
-<!-- [![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/) -->
+Week 04 → Git & GitHub 
+[![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/) 
 
 <!-- Week 05 → DevOps Lifecycle & Agile -->
 <!-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) -->
@@ -130,7 +130,7 @@ Week 03 → Linux & Bash for DevOps
 | 01 | Success Mindset |  ✅ Completed | ✅ Completed| https://www.linkedin.com/posts/isaiah-emeka_isaiah-emeka-a-devops-engineer-shaping-activity-7477680503341510656-yewP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg— | https://medium.com/@emesiah/understanding-the-internet-and-networking-the-foundation-of-modern-technology-1b072950a587
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Completed | https://www.linkedin.com/posts/isaiah-emeka_dmibypravinmishra-ultimateagenticaidevops-ugcPost-7485142160066093056-vAjd/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg— |https://medium.com/@emesiah/understanding-the-benefits-of-agentic-ai-to-devops-and-society-60ac870d777e
 | 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Completed| https://www.linkedin.com/posts/isaiah-emeka_devops-linux-bashscripting-ugcPost-7484956709355065344-gwq2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg— |https://medium.com/@emesiah/why-learning-linux-bash-is-a-game-changer-for-every-devops-and-cloud-engineer-39fcd4db6652
-| 04 | Git & Github | 🔄 In Progress|🔄 In Progress | — | — |https://medium.com/@emesiah/git-and-github-the-backbone-of-devops-and-modern-collaboration-35ad281dee07
+| 04 | git & github | ⬜ 🔄 In Progress | 🔄 In Progress | — | — https://medium.com/@emesiah/git-and-github-the-backbone-of-devops-and-modern-collaboration-35ad281dee07|
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
