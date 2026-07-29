@@ -154,7 +154,9 @@ Example:
 
 > Before starting every assignment, I will create a checklist in my notebook and verify each screenshot requirement before moving to the next task. I will do this every evening before my study session so that I do not miss proof during submission.
 
----
+---The habit: I will review and document what I learned after completing each task.
+When I will do it: I will do this at the end of every work or learning session.
+How it will help me: It will help me retain knowledge, identify mistakes early, track my progress, and continuously improve my DevOps and cloud engineering skills.
 
 #### 5. What I learned about Agentic AI and DevOps
 
@@ -169,7 +171,15 @@ You may include points like:
 * DevOps engineers need both automation and control
 * Human review is still important
 
----
+---My understanding of DevOps changed after using Agentic AI tools. I learned that:
+
+* **AI is more than chatting** — it can execute tasks and use tools.
+* **Structured workflows matter** — agents can follow defined DevOps processes.
+* **Permissions are important** — tool access must be controlled.
+* **Reusable skills save time** — they reduce repetitive manual work.
+* **Automation needs control** — DevOps engineers must guide and monitor AI.
+* **Human review is essential** — AI can make mistakes, so engineers must validate its actions.
+
 
 #### 6. My Week 2 highlight
 
@@ -184,7 +194,8 @@ Examples:
 * Setting up memory or permissions
 * Fixing an error by reading the output carefully
 
----
+One moment I am proud of is **running `/scaffold-terraform` and seeing the Terraform files generated automatically**. It showed me how Agentic AI can reduce manual work and helped me better understand how automation can improve the DevOps workflow.
+
 
 ## 9. Minimum Requirements
 
@@ -221,9 +232,9 @@ Hashtags:
 https://www.linkedin.com/posts/isaiah-emeka_dmibypravinmishra-agenticai-claudecode-activity-7482413440754601984-6rxg?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg
 ## 11. Submission Instructions
 
-Submit the GitHub Repo Link >>https://github.com/Emesiah/Ultimate-Agentic-DevOps-with-Claude-Code/ 
+Submit the GitHub Repo Link >>
+https://github.com/Emesiah/Ultimate-Agentic-DevOps-with-Claude-Code/ 
 
----
 
 ## 12. Completion Checklist
 

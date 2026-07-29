@@ -247,8 +247,7 @@ Ensure the correct React build is deployed and Nginx is serving it properly.
 ---
 
 #### Screenshot 2 — Output of `grep -R "Deployed by" -n /var/www/html 2>/dev/null | head`
-![ Output of `grep -R "Deployed by" -n /var/www/html 2>/dev/null | head]
-(week-03-Assignment-03-screenshot20.png)
+![Output of `grep -R "Deployed by" -n /var/www/html 2>/dev/null | head](week-03-Assignment-03-screenshot20-1.png)
 
 ---
 
@@ -277,7 +276,7 @@ Simulate a real-world Nginx misconfiguration and recover the service safely.
 
 #### Screenshot 1 — Output of `sudo nginx -t` showing the syntax error (broken config)
 
-Add your screenshot here.
+![alt text](week-03-Assignment-03-screenshot20-1-1.png)
 
 ---
 
@@ -329,13 +328,13 @@ Simulate missing deployment content and recover the application safely.
 
 #### Screenshot 1 — Output of `curl -I http://<public-ip>` showing failure (non-200 response)
 
-![ Output of `curl -I http://172-31-10-26](Week-00-Assignment-01-screenshot5-1.png)
+![ Output of `curl -I http://172-31-10-26](Week-03-Assignment-03-screenshot5-1.png)
 
 ---
 
 #### Screenshot 2 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-Add your screenshot here.
+![Output of `curl -I http://<public-ip>` confirming recovery (200 OK)](<confirming recovery (200 OK).png>)
 
 ---
 
@@ -412,7 +411,7 @@ Cloud resources should be stopped or deleted when you no longer need them so you
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:https://www.linkedin.com/posts/isaiah-emeka_deployment-is-only-the-beginning-my-journey-ugcPost-7484383948140371968-qIBn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg
+https://www.linkedin.com/posts/isaiah-emeka_deployment-is-only-the-beginning-my-journey-ugcPost-7484383948140371968-qIBn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg
 
 www.linkedin.com/in/isaiah-emeka
 
