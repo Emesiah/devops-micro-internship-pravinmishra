@@ -75,8 +75,8 @@ Where does your memory file live for this project? Show me the full path.
 **Expected Output:** Claude gives you the full absolute path to the `MEMORY.md` file. The file may be empty or not yet exist — that is fine.
 
 **Screenshots Required:**
-- Screenshot 1 — Memory file path shown by Claude
-
+- Screenshot 1 —![Memory file path shown by Claude
+](<week-02-Assignment7 screenshot1.png>) 
 ---
 
 ### Task 2 — Give Claude Information to Remember
@@ -96,8 +96,8 @@ Remember the following for all future sessions: The CSS hero section uses a dark
 **Expected Output:** Claude confirms the memory was saved. The `MEMORY.md` file now contains all three pieces of information.
 
 **Screenshots Required:**
-- Screenshot 2 — Claude confirming the memory was saved
-- Screenshot 3 — The `MEMORY.md` file open in VS Code showing the saved content
+- Screenshot 2 — ![Claude confirming the memory was saved](<week-02-Assignment7 screenshot2.png>)Claude confirming the memory was saved
+- Screenshot 3 — ![The `MEMORY.md` file open in VS Code showing the saved content](<week-02-Assignment7 screenshot3.png>)
 
 ---
 
@@ -119,8 +119,8 @@ Remember the following for all future sessions: The CSS hero section uses a dark
 **Expected Output:** Claude Code session is fully closed. A fresh session is opened with no previous conversation visible.
 
 **Screenshots Required:**
-- Screenshot 4 — VS Code reopened with a fresh Claude Code session showing no previous conversation
-
+- Screenshot 4 —![VS Code reopened with a fresh Claude Code session showing no previous conversation
+](<week-02-Assignment7 screenshot4.png>) 
 ---
 
 ### Task 4 — Prove Memory Recall Across Sessions
@@ -148,9 +148,9 @@ Should I add a JavaScript animation to the hero section?
 - Question 3: Claude refuses the JavaScript request — citing the memory rule
 
 **Screenshots Required:**
-- Screenshot 5 — Claude recalling hero section colors
-- Screenshot 6 — Claude refusing JavaScript request based on memory rule
-
+- Screenshot 5 — ![Claude recalling hero section colors](<week-02-Assignment7 screenshot5.png>)
+- Screenshot 6 — ![Claude refusing JavaScript request based on memory rule
+](<week-02-Assignment7 screenshot6.png>)
 ---
 
 ## 8. Industry Insight
@@ -185,8 +185,8 @@ Create a LinkedIn post including:
 - Tag: #DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps
 
 **Submit:**
-- LinkedIn post URL
-- Screenshot of the post
+- https://lnkd.in/p/eriT8Zkv
+- ![Screenshot of the post](week-02-Assignment7-linked1-1.png)![Screenshot of the post](week-02-Assignment7-linked2.png)
 
 ---
 

@@ -416,8 +416,8 @@ This script combines different Bash features to automate a simple task. It uses 
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
 https://www.linkedin.com/posts/isaiah-emeka_devops-linux-bashscripting-ugcPost-7484956709355065344-gwq2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg
+
 `__________________________`
 
 www.linkedin.com/in/isaiah-emeka

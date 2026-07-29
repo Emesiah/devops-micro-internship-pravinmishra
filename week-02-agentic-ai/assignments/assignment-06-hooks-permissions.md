@@ -121,7 +121,7 @@ Your project should contain the Claude Code configuration structure:
 
 * Screenshot 1 — `.claude` folder structure visible in VS Code Explorer
 
----
+![`.claude` folder structure visible in VS Code Explorer](week-02-Assignment6-screenshot1-1.png)
 
 ### Task 2 — Create the UserPromptSubmit Hook Script
 
@@ -167,7 +167,7 @@ and contains the UserPromptSubmit hook script.
 
 * Screenshot 2 — `user-prompt-guard.sh` open in VS Code showing the hook script
 
----
+![`user-prompt-guard.sh` open in VS Code showing the hook script](week-02-Assignment6-screenshot2.png)
 
 ### Task 3 — Create the PreToolUse Hook Script
 
@@ -211,7 +211,7 @@ and contains the PreToolUse hook script.
 
 **Screenshots Required:**
 
-* Screenshot 3 — `pre-tool-guard.sh` open in VS Code showing the hook script
+* Screenshot 3 — ![`pre-tool-guard.sh` open in VS Code showing the hook script](week-02-Assignment6-screenshot3.png)
 
 ---
 
@@ -255,7 +255,7 @@ and contains the PostToolUse hook script.
 
 **Screenshots Required:**
 
-- Screenshot 4 — `post-tool-logger.sh` open in VS Code showing the hook script
+- Screenshot 4 — ![`post-tool-logger.sh` open in VS Code showing the hook script](week-02-Assignment6-screenshot4.png)
 
 ---
 
@@ -354,8 +354,8 @@ settings.json
 
 **Screenshots Required:**
 
-* Screenshot 5 — `settings.json` open in VS Code showing permissions and hooks configuration
-
+* Screenshot 5 —![`settings.json` open in VS Code showing permissions and hooks configuration
+](week-02-Assignment6-screenshot5.png) 
 ---
 
 ### Task 6 — Test the UserPromptSubmit Hook
@@ -400,7 +400,7 @@ Claude should not start reading files or executing commands.
 
 **Screenshots Required:**
 
-- Screenshot 6 — UserPromptSubmit hook blocking the destructive prompt
+- Screenshot 6 — ![UserPromptSubmit hook blocking the destructive prompt](week-02-Assignment6-screenshot6.png)
 
 ---
 
@@ -446,8 +446,8 @@ Destructive command detected.
 
 **Screenshots Required:**
 
-- Screenshot 7 — PreToolUse hook blocking terraform destroy
-
+- Screenshot 7 — ![PreToolUse hook blocking terraform destroy
+](week-02-Assignment6-screenshot7.png)
 ---
 
 ### Task 8 — Test the PostToolUse Logging Hook
@@ -512,9 +512,9 @@ Example:
 
 **Screenshots Required:**
 
-- Screenshot 8 — Claude running terraform validate successfully
-- Screenshot 9 — `.claude/deploy.log` showing the logged command
-
+- Screenshot 8 — ![Claude running terraform validate successfully](week-02-Assignment6-screenshot8.png)
+- Screenshot 9 — ![`.claude/deploy.log` showing the logged command
+](week-02-Assignment6-screenshot9.png)
 ---
 
 ## 8. Industry Insight

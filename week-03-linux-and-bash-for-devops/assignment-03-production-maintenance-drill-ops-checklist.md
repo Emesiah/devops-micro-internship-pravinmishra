@@ -104,7 +104,6 @@ If Nginx fails to restart in production, the web server may stop serving request
 
 **2. What's your basic rollback plan?**
 
-Write your answer here.
 A basic rollback plan is:
 
 1.i will not restart repeatedly—check the cause of the failure first.
@@ -114,6 +113,7 @@ A basic rollback plan is:
 5.Verify the service is running:sudo systemctl status nginx
 curl http://localhost
 6.
+
 ---
 
 # Task 3 — Logs & Request Trace
@@ -126,21 +126,21 @@ Verify real traffic flow and analyze logs to understand system behavior and erro
 
 #### Screenshot 1 — Output of `sudo tail -n 30 /var/log/nginx/access.log`
 
-Add your screenshot here.
 ![output of sudo tail -n 30 /var/log/nginx/error.log](week-03-Assignment-03-screenshot12.png)
+
 ---
 
 #### Screenshot 2 — Output of `sudo tail -n 30 /var/log/nginx/error.log`
 
-Add your screenshot here.
 ![ Output of `sudo tail -n 30 /var/log/nginx/error.log`
 ](week-03-Assignment-03-screenshot13.png)
+
 ---
 
 #### Screenshot 3 — Output of `sudo journalctl -u nginx --no-pager -n 50`
 
-Add your screenshot here.
 ![Output of `sudo journalctl -u nginx --no-pager -n 50](week-03-Assignment-03-screenshot14.png)
+
 ---
 
 ### Notes
@@ -161,20 +161,22 @@ The request reached Nginx successfully, but there was no default web page to ser
 
 **2. If there were no errors, what does that indicate about the system?**
 
-Write your answer here.
+1. Nginx is operating normally and has not encountered any recent problems while handling requests.
+2. The web server is successfully serving requests without configuration or runtime errors.
+3. There are no recent issues such as missing files, permission problems, or application failures recorded in the error log.
 
 ---
 
 **3. Based on the access logs, were your curl requests visible in the log entries? What does that prove about traffic flow?**
 
-Write your answer here.
 No. Based on the portion of the access log i got, I do not see any curl requests.
 
 A typical curl request would appear with a User-Agent similar to:
 
 what this prove is that If you executed a command like:curl http://172.31.10.26
 and no corresponding entry appears in access.log, it generally means the request never reached Nginx.
----
+
+
 
 # Task 4 — System Resource Health Check (Capacity Red Flags)
 
@@ -186,26 +188,26 @@ Assess server capacity and detect potential performance or failure risks.
 
 #### Screenshot 1 — Output of `uptime`
 
-Add your screenshot here.
 ![Output of `uptime](week-03-Assignment-03-screenshot15.png)
+
 ---
 
 #### Screenshot 2 — Output of `free -h`
 
-Add your screenshot here.
 ![output of free -h](week-03-Assignment-03-screenshot16.png)
+
 ---
 
 #### Screenshot 3 — Output of `df -h`
 
-Add your screenshot here.
 ![Output of `df -h](week-03-Assignment-03-screenshot17.png)
+
 ---
 
 #### Screenshot 4 — Output of `sudo du -sh /var/* | sort -h`
 
-Add your screenshot here.
 ![Output of `sudo du -sh /var/* | sort -h](week-03-Assignment-03-screenshot18.png)
+
 ---
 
 ### Notes
@@ -214,14 +216,20 @@ Answer the following in your own words:
 
 **1. Which resource looks most critical right now? (CPU/load, memory, or disk) Explain why.**
 
-Write your answer here.
+Most critical resource: Memory
+
+Memory is the most critical resource because:
+
+The server has less than 1 GB of RAM, which is quite limited for running services like Nginx, application processes, and other background tasks.
+There is no swap space configured. Without swap, if memory usage suddenly spikes, the Linux Out-of-Memory (OOM) killer may terminate processes to free RAM, potentially causing application downtime.
+Although the disk is only 59% full, leaving sufficient free space, and there were no signs of high CPU utilization, the combination of limited RAM and no swap poses the greatest operational risk
 
 ---
 
 **2. What happens if disk becomes 100% full in a production server?**
 
-Write your answer here.
 If a production server's disk reaches 100% capacity, it can cause serious service disruptions and even complete outages.
+
 ---
 
 # Task 5 — Configuration & Deployment Verification
@@ -234,20 +242,19 @@ Ensure the correct React build is deployed and Nginx is serving it properly.
 
 #### Screenshot 1 — Output of `ls -lah /var/www/html | head -n 20`
 
-Add your screenshot here.
 ![Output of `ls -lah /var/www/html | head -n 20](week-03-Assignment-03-screenshot19.png)
+
 ---
 
 #### Screenshot 2 — Output of `grep -R "Deployed by" -n /var/www/html 2>/dev/null | head`
-![ Output of `grep -R "Deployed by" -n /var/www/html 2>/dev/null | head](week-03-Assignment-03-screenshot20.png)
-Add your screenshot here.
+![ Output of `grep -R "Deployed by" -n /var/www/html 2>/dev/null | head]
+(week-03-Assignment-03-screenshot20.png)
 
 ---
 
 #### Screenshot 3 — Output of `grep -n "try_files" /etc/nginx/sites-available/default`
 
-Add your screenshot here.
-
+51:        try_files $uri $uri/ /index.html;
 ---
 
 ### Notes
@@ -276,14 +283,14 @@ Add your screenshot here.
 
 #### Screenshot 2 — Output of `sudo nginx -t` showing syntax ok (fixed config)
 
-Add your screenshot here.
 ![Output of sudo nginx -t](week-03-Assignment-03-screenshot21.png)
+
 ---
 
 #### Screenshot 3 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-Add your screenshot here.
 ![Output of `curl -I http://<public-ip>](week-03-Assignment-03-screenshot22.png)
+
 ---
 
 ### Notes
@@ -407,7 +414,7 @@ Cloud resources should be stopped or deleted when you no longer need them so you
 
 Paste your LinkedIn post URL here:https://www.linkedin.com/posts/isaiah-emeka_deployment-is-only-the-beginning-my-journey-ugcPost-7484383948140371968-qIBn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg
 
-`Add your URL here`
+www.linkedin.com/in/isaiah-emeka
 
 ---
 

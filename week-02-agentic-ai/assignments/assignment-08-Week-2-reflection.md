@@ -218,11 +218,10 @@ Hashtags:
 
 #DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps #LearningInPublic
 
-https://www.linkedin.com/posts/isaiah-emeka_devops-linux-bashscripting-ugcPost-7484956709355065344-gwq2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg
-
+https://www.linkedin.com/posts/isaiah-emeka_dmibypravinmishra-agenticai-claudecode-activity-7482413440754601984-6rxg?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg
 ## 11. Submission Instructions
 
-Submit the GitHub Repo Link. 
+Submit the GitHub Repo Link >>https://github.com/Emesiah/Ultimate-Agentic-DevOps-with-Claude-Code/ 
 
 ---
 
