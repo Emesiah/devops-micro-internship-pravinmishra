@@ -194,7 +194,7 @@ Examples:
 * Setting up memory or permissions
 * Fixing an error by reading the output carefully
 
-One moment I am proud of is **running `/scaffold-terraform` and seeing the Terraform files generated automatically**. It showed me how Agentic AI can reduce manual work and helped me better understand how automation can improve the DevOps workflow.
+One moment I am proud of is running `/scaffold-terraform` and seeing the Terraform files generated automatically. It showed me how Agentic AI can reduce manual work and helped me better understand how automation can improve the DevOps workflow.
 
 
 ## 9. Minimum Requirements
@@ -230,6 +230,10 @@ Hashtags:
 #DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps #LearningInPublic
 
 https://www.linkedin.com/posts/isaiah-emeka_dmibypravinmishra-agenticai-claudecode-activity-7482413440754601984-6rxg?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg
+
+www.linkedin.com/in/isaiah-emeka
+
+![linkedin  screenshot](week-02-Assignment8-linked.png)
 ## 11. Submission Instructions
 
 Submit the GitHub Repo Link >>

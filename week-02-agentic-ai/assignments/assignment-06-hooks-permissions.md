@@ -4,10 +4,10 @@
 
 ## 1. Assignment Overview
 
-**Assignment:** Hooks & Permissions             
-**Estimated Time:** 60 minutes             
-**Difficulty:** Intermediate                 
-**Category:** Agentic AI, Safety              
+**Assignment:** Hooks & Permissions
+**Estimated Time:** 60 minutes
+**Difficulty:** Intermediate
+**Category:** Agentic AI, Safety
 
 ---
 
@@ -355,7 +355,7 @@ settings.json
 **Screenshots Required:**
 
 * Screenshot 5 —![`settings.json` open in VS Code showing permissions and hooks configuration
-](week-02-Assignment6-screenshot5.png) 
+](week-02-Assignment6-screenshot5.png)
 ---
 
 ### Task 6 — Test the UserPromptSubmit Hook
@@ -400,7 +400,9 @@ Claude should not start reading files or executing commands.
 
 **Screenshots Required:**
 
-- Screenshot 6 — ![UserPromptSubmit hook blocking the destructive prompt](week-02-Assignment6-screenshot6.png)
+- Screenshot 6 —
+![UserPromptSubmit hook blocking the destructive prompt](week-02-Assignment6-screenshot6.png)
+
 
 ---
 
