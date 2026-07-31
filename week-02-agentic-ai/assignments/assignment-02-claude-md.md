@@ -98,10 +98,11 @@ What is this project and how should I deploy it?
 
 **Screenshots Required:**
 - Screenshot 2 — The auto-generated CLAUDE.md open in VS Code showing its content
+![claude.md content](week-02-Assign2-screenshot17.png)![claude.md content](week-02-Assign2-screenshot18.png)
 
 ---
-![claude.md content](week-02-Assign2-screenshot17.png)
-![claude.md content](week-02-Assign2-screenshot18.png)
+
+
 ### Task 3 — Customize the CLAUDE.md
 
 **Goal:** Replace the generic content with specific, actionable instructions across all 5 sections.
@@ -146,7 +147,7 @@ week-02-agentic-ai/screenshots/week-02-Assign2-screenshot21.png
 week-02-agentic-ai/screenshots/week-02-Assign2-screenshot22.png
 Add a React component to the homepage.
 ```
-![response](week-02-Assign2-screenshot23.png)![response](week-02-Assign2-screenshot24.png)
+
 
 
 **Expected Output:**
@@ -155,8 +156,9 @@ Add a React component to the homepage.
 
 **Screenshots Required:**
 - Screenshot 4 — Claude's specific, detailed answer after reading CLAUDE.md (Claude mentioning S3, CloudFront and Terraform)
+![response](week-02-Assign2-screenshot23.png)
 - Screenshot 5 — Claude refusing or warning against adding React because of the "No JavaScript" convention defined in CLAUDE.md
-
+![response](week-02-Assign2-screenshot24.png)
 ---
 
 ### Task 5 — Commit and push your changes to your fork in GitHub
@@ -193,9 +195,9 @@ git push origin main
 **Screenshots Required:**
 
 - Screenshot 6 — `CLAUDE.md` visible in your GitHub repository after pushing the commit
-![CLAUDE.md visible in github repo](week-02-Assign2-screenshot25.png)
+![alt text](week-02-Assign2-screenshot25-1.png)
 
-Github Repo Url=https://github.com/Emesiah/Ultimate-Agentic-DevOps-with-Claude-Code
+
 ---
 
 ## 8. Industry Insight
@@ -212,6 +214,9 @@ Your submission must include:
 - All 6 required screenshots
 - Your GitHub repo URL (`CLAUDE.md` must be committed and pushed)
 
+GitHub Repository URL
+
+https://github.com/Emesiah/Ultimate-Agentic-DevOps-with-Claude-Code
 ---
 
 ## 10. Solution Walkthrough

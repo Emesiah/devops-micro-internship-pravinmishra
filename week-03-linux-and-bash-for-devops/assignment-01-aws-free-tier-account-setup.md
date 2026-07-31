@@ -30,16 +30,17 @@ The AWS Free Tier is a program from Amazon Web Services that allows new customer
 
 
 we have 3 different categories of free tier:
-1.12 Months Free
-2.Always Free
-3.Free Trials
+
+- 12 Months Free
+- Always Free
+- Free Trials
 ---
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-EC2:12 months
-AWS Lambda:always free
-S3:12 months
+* EC2:12 months
+* AWS Lambda:always free
+* S3:12 months
 
 ---
 

@@ -20,13 +20,13 @@ Confirm that Nginx and the React application are healthy before building the aut
 
 #### Screenshot 1 — Output of `systemctl is-active nginx`, `ss -ltn | grep ':80'`, and `curl -I http://localhost`
 
-Add your screenshot here.
+![alt text](week-03-Assignment-06-screenshot1.png)
 
 ---
 
 #### Screenshot 2 — Output of `pwd` and `find . -maxdepth 4 -type d | sort` showing the workspace folder structure
 
-Add your screenshot here.
+![alt text](week-03-Assignment-06-screenshot2-1.png)
 
 ---
 
@@ -36,19 +36,20 @@ Answer the following in your own words:
 
 **1. What proves that Nginx is running?**
 
-Add your answer here.
+The strongest proof that Nginx is running is checking its service status and confirming that it is listening for connections.
 
 ---
 
 **2. What proves that the server is listening for HTTP traffic?**
 
-Add your answer here.
+What proves the server is listening for HTTP traffic is that a process is bound to the HTTP port, usually port 80.
+
 
 ---
 
 **3. Why must you capture a healthy baseline before simulating an incident?**
 
-Add your answer here.
+You capture a healthy baseline before simulating an incident because you need a clear picture of what “normal” looks like before you can identify what changed.
 
 ---
 
@@ -62,7 +63,7 @@ Tell Claude exactly what this project does and what it is not allowed to do.
 
 #### Screenshot 3 — CLAUDE.md open in VS Code showing all four sections (Project Overview, Incident Workflow, Safety Rules, Output Rules)
 
-Add your screenshot here.
+![alt text](week-03-Assignment-06-screenshot3-1.png)
 
 ---
 
@@ -72,19 +73,19 @@ Answer the following in your own words:
 
 **1. Why should Claude receive project-specific operational rules?**
 
-Add your answer here.
+Claude should receive project-specific operational rules because different projects have different requirements, risks, tools, and workflows.
 
 ---
 
 **2. Why is the human required to execute the recovery command?**
 
-Add your answer here.
+The human needs to execute the recovery command because Claude should not make important changes to the server on its own.Claude can tell us what needs to be fixed and give us the command to fix it, but the human must decide whether it is safe and then run the command.
 
 ---
 
 **3. Which rule prevents Claude from making an unsupported diagnosis?**
 
-Add your answer here.
+The evidence-based diagnosis rule prevents Claude from guessing. It requires Claude to use actual command output, logs, and other evidence before making a diagnosis.
 
 ---
 
@@ -98,7 +99,7 @@ Use Claude Code to inspect the environment and produce a read-only plan before c
 
 #### Screenshot 4 — Claude Code showing the five-check plan and read-only inspection results
 
-Add your screenshot here.
+![alt text](week-03-Assignment-06-screenshot4.png)![alt text](week-03-Assignment-06-screenshot4-2.png)
 
 ---
 
@@ -108,19 +109,26 @@ Answer the following in your own words:
 
 **1. Which part of this task represents the Gather phase?**
 
-Add your answer here.
+The Gather phase is the part where you collect information about the server without changing anything.
+
+In this assignment, the Gather phase is represented by the five checks:
+- Is Nginx running?
+- Is port 80 listening?
+- Is the website responding?
+- Is there enough disk space?
+- Is there enough memory
 
 ---
 
 **2. Did Claude follow the instruction not to create files? How did you verify this?**
 
-Add your answer here.
+Yes. Claude followed the instruction. I verified this by reviewing the commands it used and confirming that they only collected information and did not create or change any files.
 
 ---
 
 **3. Why is planning before coding useful in DevOps automation?**
 
-Add your answer here.
+Planning before coding is useful because it helps you decide exactly what needs to be checked before making changes.
 
 ---
 
@@ -134,25 +142,25 @@ Create one Bash script that gathers consistent Linux and Nginx health evidence.
 
 #### Screenshot 5 — Top section of `linux-triage.sh` showing variables, thresholds, and the checks array
 
-Add your screenshot here.
+![alt text](week-03-Assignment-06-screenshot5.png)
 
 ---
 
 #### Screenshot 6 — Middle section showing check functions and conditionals
 
-Add your screenshot here.
+![alt text](week-03-Assignment-06-screenshot6-1.png)
 
 ---
 
 #### Screenshot 7 — Bottom section showing the loop, summary function, and exit behavior
 
-Add your screenshot here.
+![alt text](week-03-Assignment-06-screenshot7.png)
 
 ---
 
 #### Screenshot 8 — Output of `bash -n scripts/linux-triage.sh` (no syntax errors) and `ls -l scripts/linux-triage.sh` showing executable permission
 
-Add your screenshot here.
+![alt text](week-03-Assignment-06-screenshot8.png)
 
 ---
 
@@ -162,31 +170,31 @@ Answer the following in your own words:
 
 **1. What is stored in the checks array?**
 
-Add your answer here.
+The checks array stores the five health-check functions that the script will run.It tells the script which checks to perform and the order to perform them
 
 ---
 
 **2. How does the `for` loop use that array?**
 
-Add your answer here.
+The for loop goes through each item in the checks array one by one and runs that check.
 
 ---
 
 **3. Why are the health checks separated into functions?**
 
-Add your answer here.
+The health checks are separated into functions to make the script organized, easier to understand, and easier to reuse
 
 ---
 
 **4. What is the purpose of `$(...)` in this script?**
 
-Add your answer here.
+$(...) is used to run a command and put its result into the script.
 
 ---
 
 **5. Why does the script use different exit codes for HEALTHY, WARN, and FAIL?**
 
-Add your answer here.
+The script uses different exit codes so that other tools or people can quickly know the result of the health check.
 
 ---
 

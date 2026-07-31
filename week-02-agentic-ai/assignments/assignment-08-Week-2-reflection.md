@@ -88,6 +88,15 @@ You can write your blog in any of the following platforms:
 * Substack Newsletter
 
 ---
+Evidence
+Screenshot 1 — Blog published and visible
+
+![alt text](<week-02-Assignment8 blog-screenshot.png>)
+
+ubmission Field
+Blog Link:
+
+https://lnkd.in/p/eFHcTWAU
 
 ## 8. Required Blog Structure
 
@@ -209,7 +218,7 @@ Your reflection blog must include:
 * One clear habit/system you will implement next week
 * Blog/document link must be publicly viewable or accessible to reviewers
 
-https://medium.com/@emesiah/why-learning-linux-bash-is-a-game-changer-for-every-devops-and-cloud-engineer-82dcbd122e22
+
 
 ## 10. LinkedIn Post Requirement
 
@@ -234,10 +243,11 @@ https://www.linkedin.com/posts/isaiah-emeka_dmibypravinmishra-agenticai-claudeco
 www.linkedin.com/in/isaiah-emeka
 
 ![linkedin  screenshot](week-02-Assignment8-linked.png)
+
 ## 11. Submission Instructions
 
-Submit the GitHub Repo Link >>
-https://github.com/Emesiah/Ultimate-Agentic-DevOps-with-Claude-Code/ 
+Submit the GitHub Repo Link:
+https://github.com/Emesiah/Ultimate-Agentic-DevOps-with-Claude-Code.git 
 
 
 ## 12. Completion Checklist

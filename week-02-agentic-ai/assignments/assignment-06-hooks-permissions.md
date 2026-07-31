@@ -532,6 +532,10 @@ Complete all tasks in sequence.
 Your submission must include:
 - All 9 required screenshots
 
+GitHub Repository URL
+Paste your forked repository URL here:
+https://github.com/Emesiah/Ultimate-Agentic-DevOps-with-Claude-Code.git
+
 ---
 
 ## 10. Solution Walkthrough

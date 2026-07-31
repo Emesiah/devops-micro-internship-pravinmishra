@@ -20,8 +20,7 @@ Verify that the deployed React application is reachable from the browser and con
 
 #### Screenshot 1 — Browser showing the React app with your Full Name visible on the UI
 
-![ Browser showing the React app with your Full Name visible on the UI
-](week-03-Assignment-01-screenshot11-2.png)
+![alt text](week-03-Assignment-01-screenshot10-4.png)
 
 ---
 
@@ -98,8 +97,8 @@ Answer the following in your own words:
 
 **1. What happens if Nginx fails to restart in production?**
 
-Write your answer here.
 If Nginx fails to restart in production, the web server may stop serving requests, making websites or applications unavailable to users. This can result in downtime, failed health checks, and potential business impact until the issue is identified and resolved.
+
 ---
 
 **2. What's your basic rollback plan?**
@@ -112,7 +111,7 @@ A basic rollback plan is:
 4.Restart Nginx:sudo systemctl restart nginx
 5.Verify the service is running:sudo systemctl status nginx
 curl http://localhost
-6.
+
 
 ---
 
@@ -152,11 +151,11 @@ Answer the following in your own words:
 - If yes, mention 1–2 example error lines from the logs and explain what each one means in simple terms.
 - If no, explain what it means if the error log is empty or shows no recent errors during your check.
 
-Write your answer here.
 yes because of the following reasons:
 1. Another client (IP 97.107.135.208) attempted to access your web server.
 The request reached Nginx successfully, but there was no default web page to serve.
 2. Since directory browsing is disabled, Nginx denied access and returned a 403 Forbidden response.
+
 ---
 
 **2. If there were no errors, what does that indicate about the system?**
@@ -262,8 +261,8 @@ Answer the following in your own words:
 
 **1. How do you confirm that the correct version of the application is deployed?**
 
-Write your answer here.
 I verify the deployed version by checking the application's version endpoint, comparing the running Git commit hash with the approved release commit, reviewing deployment logs, confirming the correct Docker image or Kubernetes deployment version, and running smoke tests against critical application functionality. This ensures both the correct build and expected behavior are running in production.
+
 ---
 
 # Task 6 — Nginx Configuration Failure Simulation

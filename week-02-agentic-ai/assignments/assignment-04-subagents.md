@@ -97,7 +97,9 @@ mkdir -p .claude/agents
 
 **Screenshots Required:**
 - Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
+![alt text](week-02-Assignment4-screenshot2.png)
 - Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
+![alt text](week-02-Assignment4-screenshot3.png)
 
 ---
 
@@ -164,7 +166,7 @@ Your submission must include:
 - All 6 required screenshots
 - 3 written answers in the Google Doc (from Task 2)
 - Your GitHub repo URL (agents committed and visible)
-GitHub repo URL=https://github.com/Emesiah/Ultimate-Agentic-DevOps-with-Claude-Code/tree/main/.claude/agents
+https://github.com/Emesiah/Ultimate-Agentic-DevOps-with-Claude-Code/tree/main/.claude/agents
 
 Submit only a Google Doc link.
 Follow the Assignment Submission Guidelines — (LINK)

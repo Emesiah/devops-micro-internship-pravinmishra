@@ -142,7 +142,7 @@ Verify the React application is publicly accessible via the server's public IP.
 
 https://www.linkedin.com/posts/isaiah-emeka_deployment-of-a-react-app-to-amazon-ec2-activity-7420426645490270208-QaA8?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg
 
-www.linkedin.com/in/isaiah-emeka
+www.linkedin.com/in/isaiah-emeka/
 
 ---
 

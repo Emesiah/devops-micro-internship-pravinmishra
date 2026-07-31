@@ -102,8 +102,9 @@ mkdir -p .claude/skills/deploy
 - Screenshot 2 — `.claude/skills/scaffold-terraform/` open in VS Code showing both `SKILL.md` and `template-spec.md`
 ![skill.md & template-spec.md](week-02-Assign3-screenshot2.png)
 - Screenshot 3 — `tf-plan/SKILL.md` frontmatter showing `allowed-tools: Bash, Read, Grep` (no Write) and `disable-model-invocation: true`
----
 ![screenshot](week-02-Assign3-screenshot3.png)
+---
+
 ### Task 3 — Run /scaffold-terraform
 
 **Goal:** Trigger the scaffold skill and watch Claude generate the full Terraform infrastructure files.
@@ -123,8 +124,8 @@ mkdir -p .claude/skills/deploy
 
 **Screenshots Required:**
 - Screenshot 4 — Claude's response showing the scaffold complete with the file list
-![scaffold](week-02-Assign2-screenshot4.png)
-![scaffold](week-02-Assign2-screenshot4-2.png)
+![scaffold](week-02-Assign2-screenshot4.png)![scaffold](week-02-Assign2-screenshot4-2.png)
+
 - Screenshot 5 — VS Code sidebar showing the `terraform/` folder with all generated files inside
 ![terraform folder](week-02-Assign2-screenshot5.png)
 ---
@@ -158,7 +159,7 @@ Then in Claude Code:
 ![run /tf-plan](week-02-Assign2-screenshot6.png)
 ![run /tf-plan](week-02-Assign2-screenshot6-2.png)
 ![run /tf-plan](week-02-Assign2-screenshot6-3.png)
-Github URL Repo=git@github.com:Emesiah/Ultimate-Agentic-DevOps-with-Claude-Code.git
+
 ---
 
 ## 8. Industry Insight
@@ -174,7 +175,7 @@ Complete all tasks in sequence.
 Your submission must include:
 - All 6 required screenshots
 - Your GitHub repo URL (skills committed and visible)
-
+https://github.com/Emesiah/Ultimate-Agentic-DevOps-with-Claude-Code.git
 ---
 
 ## 10. Solution Walkthrough
@@ -193,10 +194,13 @@ Create a LinkedIn post including:
 
 **Submit:**
 - LinkedIn post URL
+https://www.linkedin.com/posts/isaiah-emeka_dmibypravinmishra-agenticai-claudecode-ugcPost-7482413438200168449-K_8z/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg
 - Screenshot of the post
-LInkedIn Post=https://www.linkedin.com/posts/isaiah-emeka_dmibypravinmishra-agenticai-claudecode-ugcPost-7482413438200168449-K_8z/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg
----
 ![LinkedIn post](<week 2-Assignment3-linkedIn-post.png>)
+---
+Paste your forked repository URL here:
+https://github.com/Emesiah/Ultimate-Agentic-DevOps-with-Claude-Code.git
+
 
 ## 12. Completion Checklist
 

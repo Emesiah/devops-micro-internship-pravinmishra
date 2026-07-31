@@ -185,8 +185,16 @@ Create a LinkedIn post including:
 - Tag: #DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps
 
 **Submit:**
+
+Linkedin Post Link:
 - https://lnkd.in/p/eriT8Zkv
-- ![Screenshot of the post](week-02-Assignment7-linked1-1.png)![Screenshot of the post](week-02-Assignment7-linked2.png)
+
+- Linkedin Post screenshot:
+![Screenshot of the post](week-02-Assignment7-linked1-1.png)![Screenshot of the post](week-02-Assignment7-linked2.png)
+
+GitHub Repository URL:
+
+https://github.com/Emesiah/Ultimate-Agentic-DevOps-with-Claude-Code.git
 
 ---
 

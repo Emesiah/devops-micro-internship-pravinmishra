@@ -79,6 +79,7 @@ Each task must be completed sequentially.
 **Screenshots Required:**
 - Screenshot 1 — GitHub token creation page showing the selected scopes (`repo`, `read:user`) — token value must NOT be visible
 ![GitHub Token creation page](week-02-Assignment5-screenshot1.png)
+
 ![GitHub Token creation page](week-02-Assignment5-screenshot1-2.png)
 ---
 
@@ -205,6 +206,15 @@ Your submission must include:
 - A note confirming `settings.local.json` is in your `.gitignore`
 - Your GitHub repo URL (`.mcp.json` committed and visible, `settings.local.json` NOT committed)
 
+GitHub Repository URL
+https://github.com/Emesiah/Ultimate-Agentic-DevOps-with-Claude-Code.git
+
+
+Security Confirmation
+Confirm below:
+
+ - settings.local.json is added to .gitignore
+ - GitHub token is NOT exposed in repository or screenshots
 ---
 
 ## 10. Solution Walkthrough

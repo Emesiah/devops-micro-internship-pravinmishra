@@ -119,7 +119,7 @@ Verify the deployed website and Nginx service are healthy.
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:https://www.linkedin.com/posts/isaiah-emeka_dmibypravinmishra-devops-aws-ugcPost-7484465968417574912-OO8R/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg
+https://www.linkedin.com/posts/isaiah-emeka_dmibypravinmishra-devops-aws-ugcPost-7484465968417574912-OO8R/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg
 
 www.linkedin.com/in/isaiah-emeka
 
