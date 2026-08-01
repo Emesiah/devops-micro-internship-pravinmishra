@@ -261,7 +261,7 @@ Turn the Bash script into a reusable, manually invoked Agentic AI workflow.
 
 #### Screenshot 11 — `SKILL.md` showing the frontmatter, allowed tool restrictions, and safety rules
 
-![alt text](week-03-Assignment-06-screenshot11.png)
+![alt text](screenshots/week-03-Assignment-06-screenshot11.png)
 
 ---
 

@@ -197,7 +197,6 @@ Push your branch and open a real Pull Request, using `/pr-ready`'s drafted title
 ### Evidence
 
 #### Screenshot 9 — Your Pull Request showing the base repository is your own fork, plus the title and description, with the `/pr-ready` draft visible for comparison (paste it in the PR conversation or your notes below)
-
 ![Screenshot 9](week-04-Assignmen-06-screenshot9.png)
 ---
 
