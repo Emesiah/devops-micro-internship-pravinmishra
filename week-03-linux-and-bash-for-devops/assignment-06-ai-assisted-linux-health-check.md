@@ -277,7 +277,7 @@ Answer the following in your own words:
 
 **1. Why does this skill have Bash, Read, and Grep, but not Write?**
 
-![alt text](week-03-Assignment-06-screenshot13-1.png)
+The skill has Bash, Read, and Grep because it is meant to check and investigate the server, not change anything.write is not included because it could change files or configurations.
 
 ---
 
