@@ -131,7 +131,7 @@ Week 05 → DevOps Lifecycle & Agile
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved| https://www.linkedin.com/posts/isaiah-emeka_dmibypravinmishra-ultimateagenticaidevops-ugcPost-7485142160066093056-vAjd/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg— |https://medium.com/@emesiah/understanding-the-benefits-of-agentic-ai-to-devops-and-society-60ac870d777e
 | 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved| https://www.linkedin.com/posts/isaiah-emeka_devops-linux-bashscripting-ugcPost-7484956709355065344-gwq2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg— |https://medium.com/@emesiah/why-learning-linux-bash-is-a-game-changer-for-every-devops-and-cloud-engineer-39fcd4db6652
 | 04 | git & github | ✅ Completed | ✅ Solved | https://lnkd.in/p/d_uaHbME— | — https://medium.com/@emesiah/git-and-github-the-backbone-of-devops-and-modern-collaboration-35ad281dee07|
-| 05 | DevOps Lifecycle & Agile | ⬜ 🔄 In Progress| 🔄 In Progress| — | https://medium.com/@emesiah/understanding-the-devops-lifecycle-agile-how-they-drive-successful-projects-92ce4c63b2f5— |
+| 05 | DevOps Lifecycle & Agile | ✅ Completed| ✅ Solved| https://lnkd.in/p/eNxy_3ji— | https://medium.com/@emesiah/ai-assisted-sprint-health-report-with-jira-mcp-2519e1c2b0aa— |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
