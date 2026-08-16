@@ -1,4 +1,4 @@
-# Assignment 5 — Deploy a Highly Available Two-Tier Application on AWS
+## Assignment 5 — Deploy a Highly Available Two-Tier Application on AWS (VPC + ALB + ASG + Multi-AZ RDS)
 
 Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
 
