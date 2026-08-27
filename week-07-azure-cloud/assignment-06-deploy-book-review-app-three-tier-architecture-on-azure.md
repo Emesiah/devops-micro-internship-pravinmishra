@@ -20,13 +20,40 @@ Create an architecture diagram and implementation plan identifying the presentat
 
 #### Screenshot 1 — Architecture diagram showing the public entry point, three tiers, network boundaries, and traffic flow
 
-Add your screenshot here.
+![alt text](screenshots/week-07-Assignment-06-screenshot1.png)
 
 ---
 
 #### Screenshot 2 — Written architecture assumptions and selected Azure services
 
-Add your screenshot here.
+Written Architecture Assumptions and Selected Azure Services
+The Book Review App will use a three-tier Azure architecture.
+•	Presentation/Web Tier: Azure Application Gateway will be the public entry point for users.
+•	Application Tier: An Azure Linux VM will host the Book Review backend application.
+•	Database Tier: Azure Database for MySQL Flexible Server will store the application data.
+•	Network: Azure Virtual Network (VNet) will separate the tiers into different subnets.
+•	Security: Network Security Groups (NSGs) will control traffic between the tiers.
+•	Database Security: MySQL Flexible Server will use private access with public access disabled.
+•	Monitoring: Azure Monitor will be used for monitoring and logging.
+•	Backup: MySQL Flexible Server backups will be enabled to support recovery.
+
+Selected Azure Services
+
+Component	         Selected Service
+Public Entry Point	 Azure Application Gateway
+Web/Application	     Azure Linux VM
+Database	         Azure Database for MySQL Flexible Server
+Network	             Azure Virtual Network
+Network Security	 Network Security Groups
+Monitoring	         Azure Monitor
+Backup	             MySQL Flexible Server Backup
+Traffic Flow
+Internet → Application Gateway → Application VM → MySQL Flexible Server
+
+Architecture Screenshot:
+![alt text](screenshots/week-07-Assignment-06-screenshot2.png)
+
+
 
 ---
 
@@ -40,19 +67,19 @@ Create a dedicated Resource Group and VNet with separate subnets for the web, ap
 
 #### Screenshot 3 — Resource Group overview showing the assignment resources
 
-Add your screenshot here.
+![alt text](screenshots/week-07-Assignment-06-screenshot3.png)
 
 ---
 
 #### Screenshot 4 — VNet overview showing the address space and all required subnets
 
-Add your screenshot here.
+![alt text](screenshots/week-07-Assignment-06-screenshot4.png)
 
 ---
 
 #### Screenshot 5 — Route-table or Private DNS evidence where applicable
 
-Add your screenshot here.
+![alt text](screenshots/week-07-Assignment-06-screenshot5.png)
 
 ---
 
@@ -66,13 +93,13 @@ Apply least-privilege NSG rules so traffic flows Internet → public entry point
 
 #### Screenshot 6 — NSG rules proving least-privilege access between the tiers
 
-Add your screenshot here.
+![alt text](screenshots/week-07-Assignment-06-screenshot6.png)
 
 ---
 
 #### Screenshot 7 — Key Vault or approved secret-management configuration (without displaying secret values)
 
-Add your screenshot here.
+![alt text](screenshots/week-07-Assignment-06-screenshot7.png)
 
 ---
 
@@ -86,13 +113,13 @@ Deploy the Book Review App presentation layer on the approved web-tier compute s
 
 #### Screenshot 8 — Web-tier compute overview showing subnet and availability configuration
 
-Add your screenshot here.
+![alt text](screenshots/week-07-Assignment-06-screenshot8.png)
 
 ---
 
 #### Screenshot 9 — Terminal or service output proving the presentation layer is running
 
-Add your screenshot here.
+![alt text](screenshots/week-07-Assignment-06-screenshot9.png)
 
 ---
 
@@ -106,19 +133,19 @@ Deploy the Book Review App backend privately in the application subnet, configur
 
 #### Screenshot 10 — Application-tier compute overview showing private subnet placement
 
-Add your screenshot here.
+![alt text](screenshots/week-07-Assignment-06-screenshot10.png)
 
 ---
 
 #### Screenshot 11 — Backend process, service, or listening-port evidence
 
-Add your screenshot here.
+![alt text](screenshots/week-07-Assignment-06-screenshot11.png)
 
 ---
 
 #### Screenshot 12 — Internal health-check or API response (without exposing secrets)
 
-Add your screenshot here.
+![alt text](screenshots/week-07-Assignment-06-screenshot12.png)
 
 ---
 
@@ -132,19 +159,19 @@ Create a private Azure managed database (public access disabled), with availabil
 
 #### Screenshot 13 — Database overview showing private connectivity and public access disabled
 
-Add your screenshot here.
+![alt text](screenshots/week-07-Assignment-06-screenshot13.png)
 
 ---
 
 #### Screenshot 14 — Availability, backup, and retention configuration
 
-Add your screenshot here.
+![alt text](screenshots/week-07-Assignment-06-screenshot14.png)
 
 ---
 
 #### Screenshot 15 — Successful schema or connectivity verification (without exposing credentials)
 
-Add your screenshot here.
+![alt text](screenshots/week-07-Assignment-06-screenshot15.png)
 
 ---
 
@@ -158,19 +185,19 @@ Configure the approved public entry service with health probes and backend pools
 
 #### Screenshot 16 — Public entry service showing listener, frontend endpoint, and healthy web targets
 
-Add your screenshot here.
+![alt text](screenshots/week-07-Assignment-06-screenshot16.png)![alt text](screenshots/week-07-Assignment-06-screenshot16-1.png)![alt text](screenshots/week-07-Assignment-06-screenshot16-2.png)
 
 ---
 
 #### Screenshot 17 — Internal application-tier load-balancing or routing configuration where applicable
 
-Add your screenshot here.
+![alt text](screenshots/week-07-Assignment-06-screenshot17.png)![alt text](screenshots/week-07-Assignment-06-screenshot17-1.png)![alt text](screenshots/week-07-Assignment-06-screenshot17-2.png)
 
 ---
 
 #### Screenshot 18 — Azure Monitor, diagnostic settings, logs, metrics, or alert evidence
 
-Add your screenshot here.
+![alt text](screenshots/week-07-Assignment-06-screenshot18.png)
 
 ---
 
@@ -184,33 +211,33 @@ Confirm the Book Review App works end to end through the public endpoint, with a
 
 #### Screenshot 19 — Browser showing the Book Review App through the public endpoint
 
-Add your screenshot here.
+![alt text](screenshots/week-07-Assignment-06-screenshot19.png)![alt text](screenshots/week-07-Assignment-06-screenshot19-1.png)
 
 ---
 
 #### Screenshot 20 — Proof of successful database-backed read and write operations
 
-Add your screenshot here.
+![alt text](screenshots/week-07-Assignment-06-screenshot20.png)
 
 ---
 
 #### Screenshot 21 — Evidence that private tiers are not publicly accessible
 
-Add your screenshot here.
+![alt text](screenshots/week-07-Assignment-06-screenshot21.png)
 
 ---
 
 #### Screenshot 22 — Availability-test and healthy-target evidence
 
-Add your screenshot here.
+![alt text](screenshots/week-07-Assignment-06-screenshot22.png)![alt text](screenshots/week-07-Assignment-06-screenshot22-1.png)
 
 ---
 
 #### Public Endpoint
 
-Paste your public endpoint URL here:
+http://4.248.7.18/
 
-`Add your URL here`
+(http://4.248.7.18/)
 
 ---
 
@@ -218,7 +245,11 @@ Paste your public endpoint URL here:
 
 Summarize what worked, issues encountered and how they were fixed, and the availability/security/secrets/monitoring/backup choices made.
 
-Write your answer here.
+The Book Review App was successfully deployed on Azure with Application Gateway as the public entry point and MySQL Flexible Server as the private database.
+The main issues were the **502 error, incorrect backend IP/port, and stopped Node.js service**, which were fixed by starting the backend and configuring port **8080** correctly.
+Security was improved by keeping the backend and database private, using SSL, and protecting credentials.
+Application Gateway health checks, Azure Monitor, managed backups, and safe availability tests were used to improve reliability.
+
 
 ---
 

@@ -88,8 +88,8 @@ Week 05 → DevOps Lifecycle & Agile
 Week 06 → AWS Cloud 
  [![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/) 
 
-<!-- Week 07 → Azure Cloud -->
-<!-- [![Week 07 – Azure](./badges/week-07.svg)](./week-07-azure-cloud/) -->
+<Week 07 → Azure Cloud 
+ [![Week 07 – Azure](./badges/week-07.svg)](./week-07-azure-cloud/) 
 
 <!-- Week 08 → Terraform -->
 <!-- [![Week 08 – Terraform](./badges/week-08.svg)](./week-08-terraform/) -->
@@ -132,7 +132,7 @@ Week 06 → AWS Cloud
 | 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved| https://www.linkedin.com/posts/isaiah-emeka_devops-linux-bashscripting-ugcPost-7484956709355065344-gwq2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg— |https://medium.com/@emesiah/why-learning-linux-bash-is-a-game-changer-for-every-devops-and-cloud-engineer-39fcd4db6652
 | 04 | git & github | ✅ Completed | ✅ Solved | https://lnkd.in/p/d_uaHbME— | — [Read my Git & GitHub blog](https://medium.com/@emesiah/git-and-github-the-backbone-of-devops-and-modern-collaboration-35ad281dee07)
 | 05 | DevOps Lifecycle & Agile | ✅ Completed| ✅ Solved| https://lnkd.in/p/eNxy_3ji— | <a [Read my blog: AI-Assisted Sprint Health Report with Jira MCP](https://medium.com/@emesiah/ai-assisted-sprint-health-report-with-jira-mcp-2519e1c2b0aa)— |
-| 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
+| 06 | AWS Cloud | ✅ Completed | ✅ Solved | https://lnkd.in/p/eyHFdyH3— |https://medium.com/@emesiah/deploying-a-2-tier-architecture-application-on-azure-from-setup-to-real-world-learning-8bc10b3a5f64?utm_source=chatgpt.com— |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
 | 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
