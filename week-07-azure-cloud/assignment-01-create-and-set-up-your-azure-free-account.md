@@ -1,6 +1,6 @@
 # Assignment 1 — Create and Set Up Your Azure Free Account
 
-Part of the DevOps Micro Internship (DMI) with Agentic AI
+Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
 
 ---
 
@@ -10,33 +10,33 @@ In this assignment, you will set up a fully functional Microsoft Azure Free Acco
 
 ---
 
-# Task 1 — 4 Create and Set Up Your Azure Free Account
+# Task 1 — Create Your Azure Free Account
 
 ## Goal
 
-Complete the Azure Free Account registration process, including Microsoft account sign-in, personal details, identity and phone verification, payment verification, and acceptance of the required terms.
+Sign up at the official Azure Free Account page, complete identity and phone verification, provide payment verification, and accept the Microsoft Agreement and Offer Terms.
 
 > No screenshot required for this task. Do not capture payment-card details. Completion is verified through Task 2.
 
 ---
 
-# Task 5 — Access and Explore the Azure Portal
+# Task 2 — Access and Explore the Azure Portal
 
 ## Goal
 
-Confirm successful Azure Portal access and Locate the required services and subscription.
+Sign in to the Azure Portal, locate key services (Resource Groups, Virtual Machines, Storage, App Services), and confirm the Free Trial subscription is shown under Subscriptions.
 
 ### Evidence
 
 #### Screenshot 1 — Azure Portal homepage after successful login
 
-Add your screenshot here.
+![alt text](screenshots/week-07-Assignment-01-screenshot1.png)
 
 ---
 
 #### Screenshot 2 — "Subscriptions" section showing the "Free Trial" subscription
 
-Add your screenshot here.
+![alt text](screenshots/week-07-Assignment-01-screenshot2.png)
 
 ---
 
@@ -44,7 +44,7 @@ Add your screenshot here.
 
 Write a three-to-four-line paragraph explaining which Azure services you plan to explore first and why.
 
-Write your answer here.
+I plan to explore Azure Virtual Machines, Azure Storage, Azure Virtual Network, and Azure Load Balancer first. These services will help me build a strong understanding of Azure compute, storage, networking, and high-availability concepts. I also plan to explore Azure Database services to understand how applications can securely connect to cloud databases. Exploring these services will strengthen my practical cloud and DevOps skills through hands-on deployment and troubleshooting.
 
 ---
 
@@ -86,4 +86,4 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) — Agentic AI Track.*
+*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track.*
