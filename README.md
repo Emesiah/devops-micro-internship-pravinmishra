@@ -14,11 +14,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Isaiah Emeka |
+| **LinkedIn** | [Isaiah-Emeka] (www.linkedin.com/in/isaiah-emeka/) |
+| **Location** | Lagos, Nigeria |
+| **Background** | Network Security Engineer,Aws Cloud Practitioner |
+| **Goal** | To establish myself as a highly sought-after DevOps and Cloud Engineer, recognized for technical excellence, innovation, and the ability to design, automate, and manage secure, scalable, and resilient cloud infrastructures that drive organizational success. |
 
 ---
 
@@ -65,31 +65,31 @@ This is not a course. It is an internship-style program — real deployments, re
 
 ---
 
-**Your stack (uncomment each badge as you earn it):**
+Your stack 
 
-<!-- Week 00 → Internet & Networking Basics -->
-<!-- [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) -->
+ Week 00 → Internet & Networking Basics 
+ [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) 
 
-<!-- Week 01 → Success Mindset -->
-<!-- [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) -->
+Week 01 → Success Mindset 
+[![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/)
 
-<!-- Week 02 → Agentic AI with Claude Code -->
-<!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
+Week 02 → Agentic AI with Claude Code 
+[![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) 
 
-<!-- Week 03 → Linux & Bash for DevOps -->
-<!-- [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) -->
+Week 03 → Linux & Bash for DevOps
+[![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/)
 
-<!-- Week 04 → Git & GitHub -->
-<!-- [![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/) -->
+Week 04 → Git & GitHub 
+[![Week 04 – Git](./badges/week-04.svg)](./week-04-git-and-github/) 
 
-<!-- Week 05 → DevOps Lifecycle & Agile -->
-<!-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) -->
+Week 05 → DevOps Lifecycle & Agile 
+[![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) 
 
-<!-- Week 06 → AWS Cloud -->
-<!-- [![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/) -->
+Week 06 → AWS Cloud 
+ [![Week 06 – AWS](./badges/week-06.svg)](./week-06-aws-cloud/) 
 
-<!-- Week 07 → Azure Cloud -->
-<!-- [![Week 07 – Azure](./badges/week-07.svg)](./week-07-azure-cloud/) -->
+<Week 07 → Azure Cloud 
+ [![Week 07 – Azure](./badges/week-07.svg)](./week-07-azure-cloud/) 
 
 <!-- Week 08 → Terraform -->
 <!-- [![Week 08 – Terraform](./badges/week-08.svg)](./week-08-terraform/) -->
@@ -109,10 +109,6 @@ This is not a course. It is an internship-style program — real deployments, re
 <!-- Week 13 → Final Project / Capstone -->
 <!-- [![Week 13 – Capstone](./badges/week-13.svg)](./week-13-final-project/) -->
 
-*Complete a week → uncomment the badge → watch your stack grow.*
-
----
-
 ## Program Overview
 
 | Phase | Weeks | Focus |
@@ -130,15 +126,15 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
-| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
-| 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
-| 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
-| 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
-| 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
-| 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
-| 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
+| 00 | Internet & Networking Basics | ✅ Completed |✅ Solved | —https://www.linkedin.com/posts/isaiah-emeka_excited-to-continue-my-devops-learning-journey-activity-7441918697587240960-W9tw?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg | — https://medium.com/@emesiah/understanding-the-internet-and-networking-the-foundation-of-modern-technology-1b072950a587|
+| 01 | Success Mindset |  ✅ Completed | ✅ Solved| https://www.linkedin.com/posts/isaiah-emeka_isaiah-emeka-a-devops-engineer-shaping-activity-7477680503341510656-yewP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg— | https://medium.com/@emesiah/understanding-the-internet-and-networking-the-foundation-of-modern-technology-1b072950a587
+| 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved| https://www.linkedin.com/posts/isaiah-emeka_dmibypravinmishra-ultimateagenticaidevops-ugcPost-7485142160066093056-vAjd/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg— |https://medium.com/@emesiah/understanding-the-benefits-of-agentic-ai-to-devops-and-society-60ac870d777e
+| 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved| https://www.linkedin.com/posts/isaiah-emeka_devops-linux-bashscripting-ugcPost-7484956709355065344-gwq2/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg— |https://medium.com/@emesiah/why-learning-linux-bash-is-a-game-changer-for-every-devops-and-cloud-engineer-39fcd4db6652
+| 04 | git & github | ✅ Completed | ✅ Solved | https://lnkd.in/p/d_uaHbME— | — [Read my Git & GitHub blog](https://medium.com/@emesiah/git-and-github-the-backbone-of-devops-and-modern-collaboration-35ad281dee07)
+| 05 | DevOps Lifecycle & Agile | ✅ Completed| ✅ Solved| https://lnkd.in/p/eNxy_3ji— | <a [Read my blog: AI-Assisted Sprint Health Report with Jira MCP](https://medium.com/@emesiah/ai-assisted-sprint-health-report-with-jira-mcp-2519e1c2b0aa)— |
+| 06 | AWS Cloud | ✅ Completed | ✅ Solved | https://lnkd.in/p/eyHFdyH3— |https://medium.com/@emesiah/deploying-a-2-tier-architecture-application-on-azure-from-setup-to-real-world-learning-8bc10b3a5f64?utm_source=chatgpt.com— |
+| 07 | Azure Cloud |  In Progress|  In Progress | — | — |
+| 08 | Terraform |  In Progress|  In Progress | https://lnkd.in/p/ebZzkwSU— | — |
 | 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
 | 10 | Azure DevOps (CI/CD) | ⬜ Not Started | ⏳ Pending | — | — |
 | 11 | Docker | ⬜ Not Started | ⏳ Pending | — | — |
