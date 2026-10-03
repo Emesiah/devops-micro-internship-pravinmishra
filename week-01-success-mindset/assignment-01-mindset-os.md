@@ -217,17 +217,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
-
+1. Atomic Habits — James
+2.Mindset — Carol S. Dweck
+3. How to Win Friends and Influence People — Dale Carnegie
+4.Deep Work — Cal Newport
+5. The Psychology of Money — Morgan Housel
+6. The 7 Habits of Highly Effective People — Stephen R. Covey
+7. So Good They Can't Ignore You — Cal Newport.
+8.Outlive — Peter Attia with Bill Gifford
+9. The Millionaire Fastlane — M. J. DeMarco
+10. Leaders Eat Last — Simon Sinek
 ---
 
 # Assignment 6. What are the things you will measure regularly in your life and career?
@@ -255,16 +254,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* New skills learned
+* Technical knowledge gained
+* Hands-on practice
+* Health / Energy
+* Portfolio updates
+* Assignments completed
+* Practical results
+* Sleep quality
+* Sleep hours
+* Exercise / workouts
 
 ---
 
@@ -288,9 +287,18 @@ Examples:
 
 **Yes / No**
 
-Answer:
+Answer:yes
 
-Add your answer here...
+* Learning & DMI
+* Technical Skills
+* Career Goals
+* Worries
+* Tasks
+* Ideas
+* Personal Development
+* Financial & Personal Responsibilities
+* Pending Things
+* What I Want From My DMI Journey
 
 ---
 
@@ -308,7 +316,66 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Weekly Routine
+Monday — DMI Learning
+
+60–90 minutes
+
+Review the previous DMI lesson.
+Study the current topic.
+Take short notes.
+Identify anything I don't understand.
+Tuesday — Technical Practice
+
+60–90 minutes
+
+Practice the week's technical skill.
+Work through commands, labs, or exercises.
+Practice instead of only watching tutorials.
+Wednesday — DMI Assignment
+
+60–90 minutes
+
+Work on the current assignment.
+Break difficult tasks into smaller steps.
+Research and troubleshoot problems.
+Document what I have done.
+Thursday — DevOps/Cloud Practice
+
+60–90 minutes
+
+Practice Linux, Git, AWS, Azure, Terraform, networking, CI/CD, or another current DMI topic.
+Work on a small practical task or project.
+Friday — Catch-up / Light Learning
+
+30–60 minutes
+
+Finish anything incomplete from Monday–Thursday.
+Review notes.
+Organize files and GitHub.
+If everything is completed, use this time for career learning.
+Saturday — DMI Session / Deep Work
+
+2–3 hours
+
+Attend DMI sessions when scheduled.
+Complete practical exercises.
+Work on assignments or projects.
+Ask questions about difficult topics.
+Review the week's learning.
+Sunday — Weekly Review
+
+30–45 minutes
+
+Ask myself:
+
+What did I learn this week?
+What assignments did I complete?
+What did I struggle with?
+What do I still not understand?
+What did I accomplish?
+What needs to be carried into next week?
+What are my three most important tasks for next week
 
 ---
 
@@ -316,11 +383,14 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
-
+Monday = 6pm -7:45pm
+Tuesday = 6pm -7:45pm
+Wednesday = 6pm -7:45pm
+Thursday = 6pm -7:45pm
+Friday = 6pm -7:45pm
 #### How Many Sessions Per Week?
 
-Add your answer here...
+7 sessions per week
 
 ---
 
@@ -334,7 +404,9 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+put phones on silent mode
+stay away from social media
+i will create a special space or room for my study and training sessions
 
 ---
 
@@ -342,21 +414,29 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+My biggest insight this week is that I have the ability to learn and improve, but I need consistency and discipline to achieve my goals. I realized that I sometimes focus too much on how much I still need to learn instead of appreciating the progress I have already made.
 
 ### My biggest weakness/loop I noticed
-
-Add your answer here...
+My biggest weakness is procrastination and sometimes overthinking tasks before starting them. I can spend too much time thinking about how difficult something might be instead of simply starting and learning along the way.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Habit: I will have a focused learning session every weekday.
+
+Time: 7:00 PM – 8:00 PM, Monday to Friday.
+
+During this one-hour block, I will:
+
+Spend 10 minutes reviewing what I learned.
+Spend 40 minutes on my DMI assignment or technical practice.
+Spend 10 minutes writing down what I completed and what I need to continue.
 
 ### LinkedIn Post
 
-Paste your LinkedIn post link here:
+https://lnkd.in/p/ewt_-eg5
 
-`Add your URL here`
+### My URL
+my URL=www.linkedin.com/in/isaiah-emeka
 
 ---
 

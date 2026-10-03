@@ -20,7 +20,7 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/agents/` with all 3 files
 
-Add your screenshot here.
+![alt text](screenshots/week-02-Assignment4-screenshot1.png)
 
 ---
 
@@ -34,19 +34,19 @@ Analyze the configuration differences between the three agents and demonstrate u
 
 #### 1. Why does the cost optimizer use Haiku instead of Sonnet?
 
-Add your answer here...
+Use Haiku for simple tasks, and Sonnet when deeper reasoning is needed.
 
 ---
 
 #### 2. Why does the security auditor NOT have Write in its tools list?
 
-Add your answer here...
+The security auditor follows a read-only principle: inspect → identify → report, rather than inspect → modify.
 
 ---
 
 #### 3. Why does the tf-writer use `inherit` instead of a specific model?
 
-Add your answer here...
+The tf-writer uses inherit so it can automatically use the model/configuration of the agent or parent process that calls it, instead of being locked to one specific model.
 
 ---
 
@@ -54,13 +54,13 @@ Add your answer here...
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
-Add your screenshot here.
+![alt text](screenshots/week-02-Assignment4-screenshot2.png)
 
 ---
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-Add your screenshot here.
+![alt text](screenshots/week-02-Assignment4-screenshot3.png)
 
 ---
 
@@ -74,13 +74,13 @@ Trigger the security auditor agent and analyze the generated security report for
 
 #### Screenshot 4 — The delegation message showing Claude launched the security-auditor
 
-Add your screenshot here.
+![alt text](screenshots/week-02-Assignment4-screenshot4.png)
 
 ---
 
 #### Screenshot 5 — Security audit report output
 
-Add your screenshot here.
+![alt text](screenshots/week-02-Assignment4-screenshot5-2.png)
 
 ---
 
@@ -94,7 +94,7 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 #### Screenshot 6 — The full cost optimization report
 
-Add your screenshot here.
+![alt text](screenshots/week-02-Assignment4-screenshot6-2.png)![alt text](screenshots/week-02-Assignment4-screenshot6.png)
 
 ---
 
@@ -119,7 +119,7 @@ Make sure your published post includes:
 
 #### Screenshot 7 — Published LinkedIn post showing your post content and leaderboard progress link visible
 
-Add your screenshot here.
+https://lnkd.in/p/e2BUzWbS
 
 ---
 
@@ -133,9 +133,10 @@ Add your screenshot here.
 
 ## GitHub Repository URL
 
-Paste your forked repository URL here:
+https://github.com/Emesiah/Ultimate-Agentic-DevOps-with-Claude-Code
 
-`Add your URL here`
+### GitHub URL :
+https://github.com/Emesiah/
 
 ---
 

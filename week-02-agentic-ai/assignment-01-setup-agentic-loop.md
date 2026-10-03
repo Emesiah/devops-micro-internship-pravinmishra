@@ -20,13 +20,13 @@ Install the Claude Code CLI globally and authenticate it using your Anthropic ac
 
 #### Screenshot 1 — Terminal showing `claude --version` with the version number visible
 
-Add your screenshot here.
+![alt text](screenshots/claude_version.png)
 
 ---
 
 #### Screenshot 2 — Claude Code authenticated and showing the terminal prompt (your name visible)
 
-Add your screenshot here.
+![alt text](screenshots/claude_login.png)
 
 ---
 
@@ -40,7 +40,7 @@ Fork the provided GitHub repository, clone it to your local machine, and open it
 
 #### Screenshot 3 — VS Code with the project open, file tree visible showing `index.html`, `style.css`, `images/`
 
-Add your screenshot here.
+![alt text](screenshots/project-file-tree.png)
 
 ---
 
@@ -54,13 +54,13 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather �
 
 #### Screenshot 4 — Claude's response to the first question, showing it read the files (tool calls visible)
 
-Add your screenshot here.
+![alt text](screenshots/claude-listed-files.png)
 
 ---
 
 #### Screenshot 5 — Claude's response to the second question, showing it ran a command and reported the line count
 
-Add your screenshot here.
+![alt text](screenshots/Css-line-numbers.png)
 
 ---
 
@@ -74,7 +74,7 @@ Share your completed Agentic AI session and DMI Leaderboard progress on LinkedIn
 
 #### Screenshot 6 — Published LinkedIn post showing the caption and shared DMI Leaderboard progress
 
-Add your screenshot here.
+https://lnkd.in/p/eriT8Zkv
 
 ---
 
@@ -90,9 +90,10 @@ Add your screenshot here.
 
 ## GitHub Repository URL
 
-Paste your forked repository URL here:
+https://github.com/Emesiah/Ultimate-Agentic-DevOps-with-Claude-Code
 
-`Add your URL here`
+### Linkedlin URl:
+www.linkedin.com/in/isaiah-emeka
 
 ---
 

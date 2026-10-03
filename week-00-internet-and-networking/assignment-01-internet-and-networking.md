@@ -188,7 +188,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Vs code setup screenshot](Week-00-Assignment-01-screenshot3.png)
+![alt text](screenshots/Week-00-Assignment-01-screenshot3.png)
 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
@@ -225,10 +225,9 @@ Add the following credit note at the end of your post:
 
 ## LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
+Paste your LinkedIn post URL here:https://www.linkedin.com/posts/isaiah-emeka_excited-to-continue-my-devops-learning-journey-activity-7441918697587240960-W9tw
 
-```text
-https://www.linkedin.com/posts/isaiah-emeka_excited-to-continue-my-devops-learning-journey-activity-7441918697587240960-W9tw?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg
+
 ```
 
 ---

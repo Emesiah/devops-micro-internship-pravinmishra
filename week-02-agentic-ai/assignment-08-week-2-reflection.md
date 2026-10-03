@@ -46,15 +46,15 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+![alt text](<screenshots/week-02-Assignment8 blog-screenshot.png>)
 
 ---
 
 ### Submission Field
 
-Blog Link:
+Blog Link:https://medium.com/@emesiah/understanding-the-benefits-of-agentic-ai-to-devops-and-society-60ac870d777e
 
-`Add your URL here`
+
 
 ---
 
@@ -70,7 +70,7 @@ Share your Week 2 learning publicly on LinkedIn.
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+![alt text](<screenshots/week-02-Assignment8 Linkdlin-post-screenshot.png>)
 
 ---
 
@@ -78,15 +78,35 @@ Add your screenshot here.
 
 LinkedIn Post Content (copy-paste here):
 
-```
-Paste your LinkedIn post content here
+From Curiosity to Capability: My Journey into Ultimate Agentic AI DevOps with Claude Code 
+One of the most exciting parts of my DevOps journey so far has been learning Ultimate Agentic AI DevOps with Claude Code.
+As someone still growing in DevOps, I initially thought AI was mainly for answering questions or generating code. This learning experience has completely changed that perspective. I've discovered how AI can become a powerful DevOps partner—helping automate tasks, generate infrastructure as code, troubleshoot issues, and improve productivity.
+Throughout this journey, I've been learning how to:
+- Build and use AI-powered DevOps skills
+- Automate infrastructure using Terraform
+- Work more effectively with Git and GitHub
+- Use Claude Code to solve real DevOps challenges
+- Understand Model Context Protocol (MCP) and how AI integrates with external tools and services
+It hasn't been a smooth ride all the time. I've encountered errors, configuration issues, and plenty of troubleshooting moments. But every challenge has been a learning opportunity, and every solution has made me more confident in my DevOps journey.
+One lesson that stands out is that DevOps is not just about knowing commands or tools. It's about developing the mindset to solve problems, automate processes, collaborate effectively, and keep learning every day.
+A heartfelt thank you to Pravin Mishra for your dedication, mentorship, and passion for teaching. Your practical, hands-on approach has made complex concepts easier to understand and has inspired me to keep pushing beyond my comfort zone.
+My sincere appreciation also goes to all the co-mentors whose support, guidance, and willingness to help have made this learning journey even more impactful. Your encouragement has created an environment where beginners like me can learn, grow, and gain confidence.
+I'm excited to continue learning, building, and improving my DevOps skills. This is only the beginning, and I look forward to what lies ahead.
+
+P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining DMI waiting list (https://lnkd.in/entnSrpP).
+Pravin MishraAnjana MuthunayakeJoy Ukpabi
+#DMIByPravinMishra #UltimateAgenticAIDevOps #ClaudeCode #AgenticAI 
+
+View image
+View image
+
 ```
 
 ---
 
-### LinkedIn Post Link:
+### LinkedIn Post Link: https://medium.com/@emesiah/understanding-the-benefits-of-agentic-ai-to-devops-and-society-60ac870d777e
 
-`Add your URL here`
+www.linkedin.com/in/isaiah-emeka
 
 ---
 

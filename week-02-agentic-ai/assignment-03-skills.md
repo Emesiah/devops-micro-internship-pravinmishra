@@ -19,8 +19,7 @@ Create the required `.claude/skills/` directory structure for all skills.
 ### Evidence
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/skills/` folder with all 4 subfolders visible
-
-Add your screenshot here.
+![alt text](screenshots/week-02-Assignment3-screenshot1.png)
 
 ---
 
@@ -34,13 +33,13 @@ Place all required skill files into their correct directories and verify their c
 
 #### Screenshot 2 — `.claude/skills/scaffold-terraform/` open in VS Code showing both `SKILL.md` and `template-spec.md`
 
-Add your screenshot here.
+![alt text](screenshots/week-02-Assign3-screenshot2.png)
 
 ---
 
 #### Screenshot 3 — Screenshot 3 — `tf-plan/SKILL.md` frontmatter showing `allowed-tools: Bash, Read, Grep` (no Write) and `disable-model-invocation: true`
 
-Add your screenshot here.
+![alt text](screenshots/week-02-Assign3-screenshot3.png)
 
 ---
 
@@ -54,13 +53,13 @@ Execute the `/scaffold-terraform` skill to generate a full Terraform infrastruct
 
 #### Screenshot 4 — Claude's response showing the scaffold complete with the file list
 
-Add your screenshot here.
+![alt text](screenshots/week-02-Assign3-screenshot4.png)
 
 ---
 
 #### Screenshot 5 — VS Code sidebar showing the `terraform/` folder with all generated files inside
 
-Add your screenshot here.
+![alt text](screenshots/week-02-Assign3-screenshot5.png)
 
 ---
 
@@ -74,7 +73,7 @@ Initialize Terraform and execute the `/tf-plan` skill to observe plan execution 
 
 #### Screenshot 6 — Claude's `/tf-plan` response showing it ran the command and analyzed the result (pass or auth error both count)
 
-Add your screenshot here.
+![alt text](screenshots/week-02-Assign3-screenshot6.png)
 
 ---
 
@@ -88,15 +87,18 @@ Add your screenshot here.
 
 ## GitHub Repository URL
 
-Paste your forked repository URL here:
+https://github.com/Emesiah/Ultimate-Agentic-DevOps-with-Claude-Code/tree/main/.claude/skills
+
+### Linkedin URL:
+www.linkedin.com/in/isaiah-emeka
+
+## LinkedIn post URL:
+https://lnkd.in/p/dEpSzxCv
+
+Paste your forked repository URL here:https://github.com/Emesiah/Ultimate-Agentic-DevOps-with-Claude-Code/v
 
 `Add your URL here`
-
-## LinkedIn post URL
-
-Paste your forked repository URL here:
-
-`Add your URL here`
+https://github.com/Emesiah/
 ---
 
 # Completion Checklist

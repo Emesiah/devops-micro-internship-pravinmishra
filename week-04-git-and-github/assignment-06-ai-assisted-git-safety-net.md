@@ -27,15 +27,14 @@ Confirm you are working in your own fork, then create a dedicated branch for thi
 
 #### Screenshot 1 — Output of git remote -v and git branch showing the new branch
 
-Add your screenshot here.
-
+![alt text](screenshots/week-04-Assignmen-06-screenshot1.png)
 ---
 
 ### Notes
 
 **1. Why create a dedicated branch instead of doing this work on main?**
 
-Add your answer here.
+main should contain stable work, while a dedicated branch is a safe workspace for developing and testing new changes
 
 ---
 
@@ -49,7 +48,7 @@ On your own fork of this repository (the one you've been submitting your DMI wor
 
 #### Screenshot 1 — Output of  `git status` showing the staged file on feature/ai-pr-ready
 
-Add your screenshot here.
+![alt text](screenshots/week-04-Assignmen-06-screenshot1.png)
 
 ---
 
@@ -57,8 +56,7 @@ Add your screenshot here.
 
 **1. Why does this assignment use an obviously fake key instead of a real one?**
 
-Add your answer here.
-
+the fake key lets you practice the process safely without risking a real credential.
 ---
 
 # Task 2 — Write a Real Git Pre-Commit Hook
@@ -71,13 +69,13 @@ Create a tracked, shareable pre-commit hook that blocks a commit containing secr
 
 #### Screenshot 2 — `hooks/pre-commit` open in VS Code showing the full script
 
-Add your screenshot here.
+![alt text](screenshots/week-04-Assignmen-06-screenshot2-1.png)
 
 ---
 
 #### Screenshot 3 — Output of `git config core.hooksPath` confirming it points to `hooks`
 
-Add your screenshot here.
+![alt text](screenshots/week-04-Assignmen-06-screenshot3.png)
 
 ---
 
@@ -85,13 +83,12 @@ Add your screenshot here.
 
 **1. Why is `hooks/pre-commit` tracked in the repo instead of living only in `.git/hooks/`?**
 
-Add your answer here.
-
+.git/hooks/ is local and untracked; hooks/pre-commit is project-level, version-controlled, and shareable.
 ---
 
 **2. Compare this to `PreToolUse` from Week 2 Assignment 6. What does each one intercept, and what do they have in common?**
 
-Add your answer here.
+PreToolUse protects the tool-execution stage, while pre-commit protects the Git commit stage. Both provide a checkpoint where an action can be inspected and stopped before it happens.
 
 ---
 
@@ -105,7 +102,7 @@ Attempt to commit the staged file from Task 1 and show the hook rejecting it.
 
 #### Screenshot 4 — Terminal showing `git commit` rejected with the hook's "BLOCKED" message naming the exact file
 
-Add your screenshot here.
+![alt text](screenshots/week-04-Assignmen-06-screenshot6.png)
 
 ---
 
@@ -132,14 +129,13 @@ Create a manually invoked Claude Code skill that reads your staged changes and p
 ### Evidence
 
 #### Screenshot 5 — `SKILL.md` frontmatter showing `allowed-tools: Bash, Read, Grep` (no `Write`) and `disable-model-invocation: true`
-
-Add your screenshot here.
+![alt text](screenshots/week-04-Assignmen-06-screenshot5.png)
 
 ---
 
 #### Screenshot 6 — `/pr-ready` output while the risky file is still staged, showing it flagged the secret and/or debug statement
 
-Add your screenshot here.
+![alt text](screenshots/week-04-Assignmen-06-screenshot6.png)
 
 ---
 
@@ -147,7 +143,7 @@ Add your screenshot here.
 
 **1. Why does `/pr-ready` have `Bash` and `Read` but not `Write`?**
 
-Add your answer here.
+/pr-ready is designed to be a read-only reviewer/checker, so Write permission isn't necessary.
 
 ---
 
@@ -155,7 +151,7 @@ Add your answer here.
 
 Add your answer here.
 
----
+
 
 # Task 5 — Fix the Issues and Re-Verify
 
@@ -173,7 +169,7 @@ Add your screenshot here.
 
 #### Screenshot 8 — Second `/pr-ready` run showing a clean risk report and a drafted PR title + description
 
-Add your screenshot here.
+![alt text](screenshots/week-04-Assignmen-06-screenshot8.png)
 
 ---
 
@@ -197,7 +193,8 @@ Push your branch and open a real Pull Request, using `/pr-ready`'s drafted title
 
 #### Screenshot 9 — Your Pull Request showing the base repository is your own fork, plus the title and description, with the `/pr-ready` draft visible for comparison (paste it in the PR conversation or your notes below)
 
-Add your screenshot here.
+![alt text](screenshots/week-04-Assignmen-06-screenshot9.png)
+
 
 ---
 
@@ -275,7 +272,7 @@ Publish a LinkedIn post summarizing what you built and what you learned about co
 
 #### LinkedIn Post URL
 
-Add your LinkedIn post URL here...
+![alt text](<screenshots/week4_Assignment5-Linkedin post.png>)![alt text](screenshots/week-04-Assignmen-06-screenshot9.png)
 
 ---
 

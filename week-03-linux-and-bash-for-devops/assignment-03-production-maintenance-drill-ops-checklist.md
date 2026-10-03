@@ -19,51 +19,45 @@ Verify that the deployed React application is reachable from the browser and con
 ### Evidence
 
 #### Screenshot 1 — Browser showing the React app with your Full Name visible on the UI
-
-Add your screenshot here.
-![ Browser showing the React app with your Full Name visible on the UI
-](week-03-Assignment-01-screenshot11-2.png)
+![alt text](screenshots/week-03-Assignment-03-screenshot1.png)
 ---
 
 #### Screenshot 2 — Output of `ip a`
 
-Add your screenshot here.
-![output of ip a](week-03-Assignment-03-screenshot3.png)
+![alt text](screenshots/week-03-Assignment-03-screenshot2.png)
 ---
 
 #### Screenshot 3 — Output of `sudo ss -tulpen`
 
-Add your screenshot here.
-![alt text](week-03-Assignment-01-screenshot3-1.png)
+![alt text](screenshots/week-03-Assignment-03-screenshot3.png)
 ---
 
 #### Screenshot 4 — Output of `sudo ufw status`
 
-Add your screenshot here.
+![alt text](screenshots/week-03-Assignment-03-screenshot4.png)
 
 ---
-![output of sudo ufw status](week-03-Assignment-03-screenshot4.png)
+
 ### Notes
 
 Answer the following in your own words:
 
 **1. What proves Nginx is listening on 0.0.0.0:80?**
 
-Write your answer here.
-![Nginx is listening on 0.0.0.0:80](week-03-Assignment-03-screenshot5.png)
+sudo ss -tlnp | grep ':80'
+![alt text](screenshots/week-03-Assignment-03-listening-on-port-80.png)
 ---
 
 **2. What proves SSH is active on port 22?**
 
-Write your answer here.
-![ssh is active on port 22](week-03-Assignment-03-screenshot6.png)
+sudo ss -tlnp | grep ':22'
+![ssh is active on port 22]![alt text](screenshots/week-03-Assignment-03-port-22-listening.png)
 ---
 
 **3. Did you find any unexpected open ports? Explain briefly.**
 
-Write your answer here.
-![the output showing there is no open unexpected listening port ](week-03-Assignment-03-screenshot7.png)
-there are no unexpected open ports. Everything shown is normal for a basic Ubuntu web server running Nginx.
+ sudo ss -tlnp | grep -Ev ':(22|80)\b'
+there are no unexpected externally listening TCP ports besides your expected ports 22 (SSH) and 80 (Nginx). Everything shown is normal for a basic Ubuntu web server running Nginx.
 ---
 
 # Task 2 — Service Health & Systemd Validation (Nginx)
@@ -76,20 +70,17 @@ Verify that Nginx is properly installed, running, enabled at boot, and safely co
 
 #### Screenshot 1 — Output of `systemctl status nginx --no-pager`
 
-Add your screenshot here.
-![output systemctl status nginx --no-page](week-03-Assignment-03-screenshot9.png)
+![alt text](screenshots/week-03-Assignment-03-Task2-screenshot1.png)
 ---
 
 #### Screenshot 2 — Output of `sudo nginx -t`
 
-Add your screenshot here.
-![output of sudo nginx -t](week-03-Assignment-03-screenshot10.png)
+![alt text](screenshots/week-03-Assignment-03-Task2-screenshot2.png)
 ---
 
 #### Screenshot 3 — Output of `sudo ss -lptn '( sport = :80 )'`
 
-Add your screenshot here.
-![Output of `sudo ss -lptn '( sport = :80 )'](week-03-Assignment-03-screenshot11.png)
+![alt text](screenshots/week-03-Assignment-03-Task2-screenshot3.png)
 ---
 
 ### Notes
@@ -104,7 +95,6 @@ If Nginx fails to restart in production, the web server may stop serving request
 
 **2. What's your basic rollback plan?**
 
-Write your answer here.
 A basic rollback plan is:
 
 1.i will not restart repeatedly—check the cause of the failure first.
@@ -126,21 +116,17 @@ Verify real traffic flow and analyze logs to understand system behavior and erro
 
 #### Screenshot 1 — Output of `sudo tail -n 30 /var/log/nginx/access.log`
 
-Add your screenshot here.
-![output of sudo tail -n 30 /var/log/nginx/error.log](week-03-Assignment-03-screenshot12.png)
+![alt text](screenshots/week-03-Assignment-03-Task3-screenshot1.png)
 ---
 
 #### Screenshot 2 — Output of `sudo tail -n 30 /var/log/nginx/error.log`
 
-Add your screenshot here.
-![ Output of `sudo tail -n 30 /var/log/nginx/error.log`
-](week-03-Assignment-03-screenshot13.png)
+![alt text](screenshots/week-03-Assignment-03-Task3-screenshot2.png)
 ---
 
 #### Screenshot 3 — Output of `sudo journalctl -u nginx --no-pager -n 50`
 
-Add your screenshot here.
-![Output of `sudo journalctl -u nginx --no-pager -n 50](week-03-Assignment-03-screenshot14.png)
+![alt text](screenshots/week-03-Assignment-03-Task3-screenshot3.png)
 ---
 
 ### Notes
@@ -167,13 +153,7 @@ Write your answer here.
 
 **3. Based on the access logs, were your curl requests visible in the log entries? What does that prove about traffic flow?**
 
-Write your answer here.
-No. Based on the portion of the access log i got, I do not see any curl requests.
-
-A typical curl request would appear with a User-Agent similar to:
-
-what this prove is that If you executed a command like:curl http://172.31.10.26
-and no corresponding entry appears in access.log, it generally means the request never reached Nginx.
+Yes, the curl requests were visible in the Nginx access logs. This proves that the HTTP traffic reached Nginx, was processed successfully, and received a response from the server.
 ---
 
 # Task 4 — System Resource Health Check (Capacity Red Flags)
@@ -186,26 +166,22 @@ Assess server capacity and detect potential performance or failure risks.
 
 #### Screenshot 1 — Output of `uptime`
 
-Add your screenshot here.
-![Output of `uptime](week-03-Assignment-03-screenshot15.png)
+![alt text](screenshots/week-03-Assignment-03-Task4-screenshot1.png)
 ---
 
 #### Screenshot 2 — Output of `free -h`
 
-Add your screenshot here.
-![output of free -h](week-03-Assignment-03-screenshot16.png)
+![alt text](screenshots/week-03-Assignment-03-Task4-screenshot2.png)
 ---
 
 #### Screenshot 3 — Output of `df -h`
 
-Add your screenshot here.
-![Output of `df -h](week-03-Assignment-03-screenshot17.png)
+![alt text](screenshots/week-03-Assignment-03-Task4-screenshot3.png)
 ---
 
 #### Screenshot 4 — Output of `sudo du -sh /var/* | sort -h`
 
-Add your screenshot here.
-![Output of `sudo du -sh /var/* | sort -h](week-03-Assignment-03-screenshot18.png)
+![alt text](screenshots/week-03-Assignment-03-Task4-screenshot4.png)
 ---
 
 ### Notes
@@ -214,14 +190,12 @@ Answer the following in your own words:
 
 **1. Which resource looks most critical right now? (CPU/load, memory, or disk) Explain why.**
 
-Write your answer here.
-
+Disk is the most critical resource because the root filesystem is 57% full, while the available space is only 2.9 GB. However, it is still within a manageable range
 ---
 
 **2. What happens if disk becomes 100% full in a production server?**
 
-Write your answer here.
-If a production server's disk reaches 100% capacity, it can cause serious service disruptions and even complete outages.
+A 100% full disk can cause applications and services to fail because the server cannot create or write new files. This can lead to downtime and data-related problems
 ---
 
 # Task 5 — Configuration & Deployment Verification
@@ -234,19 +208,16 @@ Ensure the correct React build is deployed and Nginx is serving it properly.
 
 #### Screenshot 1 — Output of `ls -lah /var/www/html | head -n 20`
 
-Add your screenshot here.
-![Output of `ls -lah /var/www/html | head -n 20](week-03-Assignment-03-screenshot19.png)
+![alt text](screenshots/week-03-Assignment-03-Task5-screenshot1.png)
 ---
 
 #### Screenshot 2 — Output of `grep -R "Deployed by" -n /var/www/html 2>/dev/null | head`
-![ Output of `grep -R "Deployed by" -n /var/www/html 2>/dev/null | head](week-03-Assignment-03-screenshot20.png)
-Add your screenshot here.
-
+![alt text](screenshots/week-03-Assignment-03-Task5-screenshot2.png)
 ---
 
 #### Screenshot 3 — Output of `grep -n "try_files" /etc/nginx/sites-available/default`
 
-Add your screenshot here.
+![alt text](screenshots/week-03-Assignment-03-Task5-screenshot3.png)
 
 ---
 
@@ -270,20 +241,17 @@ Simulate a real-world Nginx misconfiguration and recover the service safely.
 
 #### Screenshot 1 — Output of `sudo nginx -t` showing the syntax error (broken config)
 
-Add your screenshot here.
+![alt text](screenshots/week-03-Assignment-03-Task6-screenshot1.png)
 
 ---
 
 #### Screenshot 2 — Output of `sudo nginx -t` showing syntax ok (fixed config)
 
-Add your screenshot here.
-![Output of sudo nginx -t](week-03-Assignment-03-screenshot21.png)
+![alt text](screenshots/week-03-Assignment-03-Task6-screenshot2.png)
 ---
 
 #### Screenshot 3 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
-
-Add your screenshot here.
-![Output of `curl -I http://<public-ip>](week-03-Assignment-03-screenshot22.png)
+![alt text](screenshots/week-03-Assignment-03-Task6-screenshot3.png)
 ---
 
 ### Notes
@@ -322,13 +290,12 @@ Simulate missing deployment content and recover the application safely.
 
 #### Screenshot 1 — Output of `curl -I http://<public-ip>` showing failure (non-200 response)
 
-![ Output of `curl -I http://172-31-10-26](Week-00-Assignment-01-screenshot5-1.png)
-
+![alt text](screenshots/week-03-Assignment-03-Task7-screenshot1.png)
 ---
 
 #### Screenshot 2 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-Add your screenshot here.
+![alt text](screenshots/week-03-Assignment-03-Task7-screenshot2.png)
 
 ---
 
@@ -407,13 +374,14 @@ Cloud resources should be stopped or deleted when you no longer need them so you
 
 Paste your LinkedIn post URL here:https://www.linkedin.com/posts/isaiah-emeka_deployment-is-only-the-beginning-my-journey-ugcPost-7484383948140371968-qIBn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVu5ZIB9xxe8ggssg_Vju5TD-v77SHgNAg
 
+
 `__________________________`
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-![ Screenshot — Published LinkedIn post](week-03-Assignment-03-screenshot23-linkedin.png)
+![alt text](screenshots/week-03-Assignment-03-screenshot23-linkedin.png)
 
 ---
 
